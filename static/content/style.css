@@ -1,0 +1,82 @@
+/* Shared look for content pages (tips, notices).
+ *
+ * Pages are opened inside the app's webview, so this has to hold up on a phone
+ * with nothing else loaded — no fonts, no scripts, no framework. Colors track
+ * the client theme (Theme.color) closely enough that a page does not read as a
+ * different app when it opens. */
+
+/* This is a page inside an app, not a page on the web.
+ *
+ * The webview gives a document every browser affordance for free: pinch to zoom,
+ * long press to select and share, drag an image out, tap-and-hold callouts. Each
+ * one is a place where the reader finds out they are looking at a website, and a
+ * mini app that shows its seams reads as unfinished — the same content in the
+ * native screens above has none of these.
+ *
+ * Zoom is also blocked at the meta viewport in every document; both are needed.
+ * The meta tag stops the gesture, this stops the text reflow that iOS applies on
+ * rotation regardless (-webkit-text-size-adjust). */
+* {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+body {
+    margin: 0;
+    /* Vertical scrolling only. Without this a two-finger drag pans the document
+     * sideways and exposes the margin as a scrollable void. */
+    touch-action: pan-y;
+    overflow-x: hidden;
+    /* Identical to the client's Theme.color.background — the page shows inside the
+     * app's webview, and any off-by-a-shade background reads as a seam when the
+     * document is shorter than the screen or the scroll bounces. */
+    background: #F2EEE4;
+    color: #1B1C19;
+    font-family: -apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', 'Noto Sans KR', sans-serif;
+    line-height: 1.6;
+    -webkit-text-size-adjust: 100%;
+}
+
+main {
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 24px 20px 48px;
+}
+
+h1 {
+    font-size: 22px;
+    line-height: 1.4;
+    margin: 0 0 16px;
+}
+
+h2 {
+    font-size: 17px;
+    line-height: 1.4;
+    margin: 28px 0 8px;
+}
+
+p {
+    font-size: 16px;
+    margin: 0 0 12px;
+    color: #42493E;
+}
+
+/* A callout for the one line a reader should not miss. */
+.note {
+    margin: 20px 0;
+    padding: 14px 16px;
+    border-radius: 12px;
+    background: #EFF3EA;
+    color: #2F3A2A;
+    font-size: 15px;
+}
+
+/* No dark variant on purpose.
+ *
+ * The app is fixed to light mode -- that is a review checklist item, and every screen
+ * is one warm-cream tone. This page renders inside that app's webview, so a dark
+ * variant here does not follow the app; it fights it. On a device in dark mode the
+ * reader tapped a cream list and landed on a black page, which reads as a different
+ * app rather than a theme. The colour above is the app's background verbatim; leave
+ * it as the only one. */
