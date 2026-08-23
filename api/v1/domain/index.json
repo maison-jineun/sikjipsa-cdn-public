@@ -1,0 +1,1102 @@
+{
+  "schemaVersion": 1,
+  "dataVersion": "cc55e3332df6",
+  "species": [
+    {
+      "key": "aglaonema",
+      "name": "아글라오네마",
+      "aliases": [
+        "아글로네마",
+        "아글레오네마",
+        "아그라오네마",
+        "실버퀸",
+        "실버베이",
+        "시암오로라",
+        "스노우사파이어",
+        "스노우화이트",
+        "chinese evergreen"
+      ],
+      "tags": [
+        "관엽",
+        "저광",
+        "공기정화",
+        "추위주의",
+        "반려동물주의"
+      ],
+      "beginnerScore": 4,
+      "emoji": "🪴",
+      "light": "반음지",
+      "waterIntervalDays": 8,
+      "toxicToPets": true
+    },
+    {
+      "key": "alocasia",
+      "name": "알로카시아",
+      "aliases": [
+        "알로카시아 폴리",
+        "알로카시아 아마조니카",
+        "알로카시아 실버드래곤",
+        "실버드래곤",
+        "알로카시아 프라이덱",
+        "프라이덱",
+        "알로카시아 블랙벨벳",
+        "블랙벨벳",
+        "알로카시아 제브리나",
+        "코끼리귀",
+        "elephant ear",
+        "alocasia"
+      ],
+      "tags": [
+        "관엽",
+        "무늬잎",
+        "고습도",
+        "추위주의",
+        "반려동물주의"
+      ],
+      "beginnerScore": 2,
+      "emoji": "🐘",
+      "light": "반양지",
+      "waterIntervalDays": 7,
+      "toxicToPets": true
+    },
+    {
+      "key": "anthurium",
+      "name": "안스리움",
+      "aliases": [
+        "안시리움",
+        "안투리움",
+        "안스륨",
+        "홍학꽃",
+        "anthurium"
+      ],
+      "tags": [
+        "관엽",
+        "꽃보기",
+        "고습도",
+        "반려동물주의"
+      ],
+      "beginnerScore": 3,
+      "emoji": "🌺",
+      "light": "반양지",
+      "waterIntervalDays": 8,
+      "toxicToPets": true
+    },
+    {
+      "key": "asparagus-myrioclados",
+      "name": "아스파라거스 미리오클라두스",
+      "aliases": [
+        "아스파라거스 미리오",
+        "미리오클라두스",
+        "미리오클라도스",
+        "아스파라거스 마코와니",
+        "아스파라거스 레트로프락투스",
+        "밍펀",
+        "ming fern"
+      ],
+      "tags": [
+        "관엽",
+        "소형",
+        "반려동물주의"
+      ],
+      "beginnerScore": 3,
+      "emoji": "🌲",
+      "light": "반양지",
+      "waterIntervalDays": 7,
+      "toxicToPets": true
+    },
+    {
+      "key": "basil",
+      "name": "바질",
+      "aliases": [
+        "스위트바질",
+        "스위트 바질",
+        "스윗바질",
+        "이탈리안 바질",
+        "제노베제 바질",
+        "바질씨앗"
+      ],
+      "tags": [
+        "허브",
+        "식용",
+        "한해살이",
+        "햇빛많이",
+        "물좋아함",
+        "반려동물안전"
+      ],
+      "beginnerScore": 3,
+      "emoji": "🌿",
+      "light": "양지",
+      "waterIntervalDays": 5,
+      "toxicToPets": false
+    },
+    {
+      "key": "brachychiton",
+      "name": "보틀트리",
+      "aliases": [
+        "보틀 트리",
+        "브라키치톤",
+        "브라키키톤",
+        "병나무",
+        "퀸즐랜드 보틀트리",
+        "브라키치톤 루페스트리스",
+        "bottle tree"
+      ],
+      "tags": [
+        "목본",
+        "물적게",
+        "햇빛많이",
+        "목대",
+        "추위주의"
+      ],
+      "beginnerScore": 3,
+      "emoji": "🌵",
+      "light": "양지",
+      "waterIntervalDays": 14
+    },
+    {
+      "key": "calathea",
+      "name": "칼라데아",
+      "aliases": [
+        "칼라디아",
+        "칼라테아",
+        "칼라데야",
+        "칼라데아 오르비폴리아",
+        "칼라데아 마코야나",
+        "칼라데아 뷰티스타",
+        "칼라데아 화이트스타",
+        "칼라데아 트리오스타",
+        "공작잎",
+        "calathea"
+      ],
+      "tags": [
+        "관엽",
+        "물좋아함",
+        "저광",
+        "습도높음",
+        "반려동물안전",
+        "무늬잎"
+      ],
+      "beginnerScore": 2,
+      "emoji": "🌿",
+      "light": "반음지",
+      "waterIntervalDays": 5,
+      "toxicToPets": false
+    },
+    {
+      "key": "chamaedorea",
+      "name": "테이블야자",
+      "aliases": [
+        "테이블 야자",
+        "미니야자"
+      ],
+      "tags": [
+        "관엽",
+        "저광",
+        "공기정화",
+        "반려동물안전",
+        "초보추천"
+      ],
+      "beginnerScore": 4,
+      "emoji": "🌴",
+      "light": "반음지",
+      "waterIntervalDays": 7,
+      "toxicToPets": false
+    },
+    {
+      "key": "chlorophytum",
+      "name": "접란",
+      "aliases": [
+        "클로로피텀",
+        "클로로피툼",
+        "스파이더플랜트",
+        "spider plant",
+        "조란",
+        "나비란",
+        "무늬접란",
+        "곱슬접란",
+        "보니접란"
+      ],
+      "tags": [
+        "관엽",
+        "공기정화",
+        "반려동물안전",
+        "초보추천",
+        "행잉"
+      ],
+      "beginnerScore": 4,
+      "emoji": "🌿",
+      "light": "반양지",
+      "waterIntervalDays": 8,
+      "toxicToPets": false
+    },
+    {
+      "key": "dracaena-fragrans",
+      "name": "행운목",
+      "aliases": [
+        "맛상게아나",
+        "마상게아나",
+        "드라세나 맛상게아나",
+        "옥수수나무"
+      ],
+      "tags": [
+        "관엽",
+        "공기정화",
+        "저광",
+        "초보추천",
+        "반려동물주의"
+      ],
+      "beginnerScore": 4,
+      "emoji": "🌴",
+      "light": "반음지",
+      "waterIntervalDays": 10,
+      "toxicToPets": true
+    },
+    {
+      "key": "dracaena-marginata",
+      "name": "마지나타",
+      "aliases": [
+        "드라세나 마지나타",
+        "꼬불이마지나타",
+        "꼬불이 마지나타",
+        "마지나타 레인보우",
+        "레인보우 마지나타",
+        "드라코",
+        "드래곤트리",
+        "dragon tree"
+      ],
+      "tags": [
+        "관엽",
+        "공기정화",
+        "저광내성",
+        "초보추천",
+        "목대",
+        "큰식물",
+        "반려동물주의"
+      ],
+      "beginnerScore": 4,
+      "emoji": "🌴",
+      "light": "반양지",
+      "waterIntervalDays": 10,
+      "toxicToPets": true
+    },
+    {
+      "key": "dracaena-sanderiana",
+      "name": "개운죽",
+      "aliases": [
+        "행운목대나무",
+        "럭키밤부",
+        "행운의 대나무",
+        "산데리아나",
+        "드라세나 산데리아나",
+        "lucky bamboo"
+      ],
+      "tags": [
+        "관엽",
+        "수경",
+        "저광내성",
+        "초보추천",
+        "반려동물주의"
+      ],
+      "beginnerScore": 5,
+      "emoji": "🎋",
+      "light": "반음지",
+      "waterIntervalDays": 7,
+      "toxicToPets": true
+    },
+    {
+      "key": "echeveria",
+      "name": "에케베리아",
+      "aliases": [
+        "에케",
+        "블루버드",
+        "라일락시나",
+        "장미 다육이"
+      ],
+      "tags": [
+        "다육",
+        "물적게",
+        "햇빛많이"
+      ],
+      "beginnerScore": 3,
+      "emoji": "🪴",
+      "light": "양지",
+      "waterIntervalDays": 14,
+      "toxicToPets": false
+    },
+    {
+      "key": "ficus-benghalensis",
+      "name": "벵갈고무나무",
+      "aliases": [
+        "뱅갈고무나무",
+        "벵갈고무",
+        "벵골고무나무",
+        "반얀나무"
+      ],
+      "tags": [
+        "관엽",
+        "공기정화",
+        "목대",
+        "큰식물",
+        "반려동물주의"
+      ],
+      "beginnerScore": 3,
+      "emoji": "🌳",
+      "light": "반양지",
+      "waterIntervalDays": 7,
+      "toxicToPets": true
+    },
+    {
+      "key": "ficus-elastica",
+      "name": "인도고무나무",
+      "aliases": [
+        "인도고무",
+        "버건디고무나무",
+        "루비고무나무",
+        "티네케고무나무",
+        "아부잔고무나무",
+        "멜라니고무나무",
+        "고무나무"
+      ],
+      "tags": [
+        "관엽",
+        "목대",
+        "큰식물",
+        "물적게",
+        "반려동물주의"
+      ],
+      "beginnerScore": 3,
+      "emoji": "🌳",
+      "light": "반양지",
+      "waterIntervalDays": 10,
+      "toxicToPets": true
+    },
+    {
+      "key": "haworthia",
+      "name": "하월시아",
+      "aliases": [
+        "하워르티아",
+        "하월티아",
+        "하오르티아",
+        "오브투사",
+        "십이지권",
+        "옥선",
+        "만상"
+      ],
+      "tags": [
+        "다육",
+        "물적게",
+        "소형",
+        "초보추천",
+        "반려동물안전"
+      ],
+      "beginnerScore": 4,
+      "emoji": "🪴",
+      "light": "반양지",
+      "waterIntervalDays": 14,
+      "toxicToPets": false
+    },
+    {
+      "key": "hedera",
+      "name": "아이비",
+      "aliases": [
+        "헤데라",
+        "잉글리시아이비",
+        "잉글리쉬아이비",
+        "무늬아이비",
+        "아이비덩굴",
+        "헤데라 헬릭스"
+      ],
+      "tags": [
+        "관엽",
+        "덩굴",
+        "공기정화",
+        "반려동물주의"
+      ],
+      "beginnerScore": 3,
+      "emoji": "🌿",
+      "light": "반양지",
+      "waterIntervalDays": 5,
+      "toxicToPets": true
+    },
+    {
+      "key": "howea",
+      "name": "켄차야자",
+      "aliases": [
+        "켄챠야자",
+        "켄티아야자",
+        "켄차 야자",
+        "켄챠",
+        "kentia palm"
+      ],
+      "tags": [
+        "관엽",
+        "저광",
+        "큰식물",
+        "반려동물안전",
+        "초보추천"
+      ],
+      "beginnerScore": 4,
+      "emoji": "🌴",
+      "light": "반음지",
+      "waterIntervalDays": 7,
+      "toxicToPets": false
+    },
+    {
+      "key": "hoya-carnosa",
+      "name": "호야",
+      "aliases": [
+        "호야 카르노사",
+        "호야카르노사",
+        "왁스플랜트",
+        "호야 콤팩타",
+        "호야 크림슨퀸",
+        "호야 트리칼라",
+        "호야 오스트랄리스",
+        "wax plant"
+      ],
+      "tags": [
+        "관엽",
+        "덩굴",
+        "행잉",
+        "꽃",
+        "향",
+        "물적게",
+        "반려동물안전"
+      ],
+      "beginnerScore": 4,
+      "emoji": "🌸",
+      "light": "반양지",
+      "waterIntervalDays": 7,
+      "toxicToPets": false
+    },
+    {
+      "key": "hydrocotyle",
+      "name": "워터코인",
+      "aliases": [
+        "워터 코인",
+        "하이드로코타일",
+        "하이드로코틸레",
+        "동전풀",
+        "water pennywort",
+        "pennywort"
+      ],
+      "tags": [
+        "관엽",
+        "물좋아함",
+        "햇빛많이",
+        "소형",
+        "수경",
+        "초보추천"
+      ],
+      "beginnerScore": 4,
+      "emoji": "🪙",
+      "light": "양지",
+      "waterIntervalDays": 3
+    },
+    {
+      "key": "maranta",
+      "name": "마란타",
+      "aliases": [
+        "레드마란타",
+        "마란타 레드",
+        "레몬라임 마란타",
+        "마란타 레몬라임",
+        "기도하는 식물",
+        "기도하는식물",
+        "프레이어 플랜트",
+        "prayer plant",
+        "maranta"
+      ],
+      "tags": [
+        "관엽",
+        "물좋아함",
+        "저광내성",
+        "반려동물안전"
+      ],
+      "beginnerScore": 3,
+      "emoji": "🌿",
+      "light": "반음지",
+      "waterIntervalDays": 5,
+      "toxicToPets": false
+    },
+    {
+      "key": "monstera",
+      "name": "몬스테라",
+      "aliases": [
+        "몬스테라 델리시오사"
+      ],
+      "tags": [
+        "관엽",
+        "공기정화"
+      ],
+      "beginnerScore": 4,
+      "emoji": "🪴",
+      "light": "반양지",
+      "waterIntervalDays": 7,
+      "toxicToPets": true
+    },
+    {
+      "key": "murraya-paniculata",
+      "name": "오렌지자스민",
+      "aliases": [
+        "오렌지 자스민",
+        "오렌지쟈스민",
+        "오렌지 재스민",
+        "무라야",
+        "무라야 파니쿨라타",
+        "향기나무",
+        "orange jessamine",
+        "orange jasmine"
+      ],
+      "tags": [
+        "목본",
+        "꽃",
+        "향",
+        "햇빛많이"
+      ],
+      "beginnerScore": 3,
+      "emoji": "🌼",
+      "light": "양지",
+      "waterIntervalDays": 7
+    },
+    {
+      "key": "nephrolepis-duffii",
+      "name": "더피고사리",
+      "aliases": [
+        "더피 고사리",
+        "더피",
+        "듀피",
+        "레몬버튼펀",
+        "레몬 버튼 펀",
+        "더피펀",
+        "버튼고사리",
+        "lemon button fern"
+      ],
+      "tags": [
+        "관엽",
+        "물좋아함",
+        "공기정화",
+        "반려동물안전",
+        "소형",
+        "향"
+      ],
+      "beginnerScore": 3,
+      "emoji": "🌿",
+      "light": "반양지",
+      "waterIntervalDays": 5,
+      "toxicToPets": false
+    },
+    {
+      "key": "nephrolepis",
+      "name": "보스턴고사리",
+      "aliases": [
+        "보스톤고사리",
+        "보스턴 고사리",
+        "보스톤 고사리",
+        "네프롤레피스",
+        "네프로레피스",
+        "보스턴펀",
+        "boston fern"
+      ],
+      "tags": [
+        "관엽",
+        "물좋아함",
+        "공기정화",
+        "반려동물안전"
+      ],
+      "beginnerScore": 2,
+      "emoji": "🌿",
+      "light": "반음지",
+      "waterIntervalDays": 5,
+      "toxicToPets": false
+    },
+    {
+      "key": "olive",
+      "name": "올리브나무",
+      "aliases": [
+        "올리브",
+        "올리브 나무",
+        "올리브 미션",
+        "아르베키나"
+      ],
+      "tags": [
+        "목본",
+        "물적게",
+        "햇빛많이"
+      ],
+      "beginnerScore": 2,
+      "emoji": "🫒",
+      "light": "양지",
+      "waterIntervalDays": 12,
+      "toxicToPets": false
+    },
+    {
+      "key": "peperomia",
+      "name": "페페로미아",
+      "aliases": [
+        "페페",
+        "수박페페",
+        "수박페페로미아",
+        "청페페",
+        "무늬페페",
+        "산호페페",
+        "호프페페",
+        "루비페페",
+        "도토리페페"
+      ],
+      "tags": [
+        "관엽",
+        "물적게",
+        "저광",
+        "소형",
+        "반려동물안전",
+        "초보추천"
+      ],
+      "beginnerScore": 4,
+      "emoji": "🪴",
+      "light": "반음지",
+      "waterIntervalDays": 10,
+      "toxicToPets": false
+    },
+    {
+      "key": "phalaenopsis",
+      "name": "호접란",
+      "aliases": [
+        "호접난",
+        "만천홍",
+        "팔레놉시스",
+        "팔레노프시스",
+        "팔레높시스",
+        "호접",
+        "moth orchid",
+        "phalaenopsis"
+      ],
+      "tags": [
+        "꽃",
+        "반려동물안전",
+        "물적게",
+        "겨울개화"
+      ],
+      "beginnerScore": 3,
+      "emoji": "🌸",
+      "light": "반양지",
+      "waterIntervalDays": 12,
+      "toxicToPets": false
+    },
+    {
+      "key": "philodendron-florida-beauty",
+      "name": "플로리다 뷰티",
+      "aliases": [
+        "플로리다뷰티",
+        "플로리다 뷰티 그린",
+        "플로리다 그린",
+        "필로덴드론 플로리다",
+        "필로덴드론 플로리다 뷰티",
+        "플로리다 뷰티 바리에가타",
+        "philodendron florida beauty"
+      ],
+      "tags": [
+        "관엽",
+        "덩굴",
+        "무늬잎",
+        "반려동물주의"
+      ],
+      "beginnerScore": 3,
+      "emoji": "🍃",
+      "light": "반양지",
+      "waterIntervalDays": 7,
+      "toxicToPets": true
+    },
+    {
+      "key": "philodendron-hederaceum",
+      "name": "스위트하트 필로덴드론",
+      "aliases": [
+        "스위트하트",
+        "스윗하트",
+        "하트필로덴드론",
+        "필로덴드론 하트",
+        "필로덴드론 옥시카르디움",
+        "옥시카르디움",
+        "필로덴드론 스칸덴스",
+        "스칸덴스",
+        "필로덴드론 브라질",
+        "브라질필로덴드론",
+        "레몬라임 필로덴드론"
+      ],
+      "tags": [
+        "관엽",
+        "덩굴",
+        "초보추천",
+        "반려동물주의"
+      ],
+      "beginnerScore": 4,
+      "emoji": "💚",
+      "light": "반양지",
+      "waterIntervalDays": 7,
+      "toxicToPets": true
+    },
+    {
+      "key": "pilea-peperomioides",
+      "name": "필레아 페페로미오이데스",
+      "aliases": [
+        "필레아페페",
+        "필레아 페페",
+        "필레아",
+        "동전페페",
+        "동전식물",
+        "중국동전풀",
+        "UFO식물",
+        "선교사식물",
+        "필레아 페페로미오데스",
+        "차이니즈 머니플랜트",
+        "팬케이크 플랜트"
+      ],
+      "tags": [
+        "관엽",
+        "반려동물안전",
+        "초보추천"
+      ],
+      "beginnerScore": 4,
+      "emoji": "🪴",
+      "light": "반양지",
+      "waterIntervalDays": 8,
+      "toxicToPets": false
+    },
+    {
+      "key": "pothos",
+      "name": "스킨답서스",
+      "aliases": [
+        "스킨",
+        "포토스",
+        "골든포토스",
+        "황금스킨답서스",
+        "무늬스킨답서스",
+        "마블퀸",
+        "네온스킨답서스",
+        "글로벌그린",
+        "에피프레넘"
+      ],
+      "tags": [
+        "관엽",
+        "덩굴",
+        "저광",
+        "물적게",
+        "초보추천",
+        "반려동물주의"
+      ],
+      "beginnerScore": 5,
+      "emoji": "🌿",
+      "light": "반양지",
+      "waterIntervalDays": 9,
+      "toxicToPets": true
+    },
+    {
+      "key": "rhaphidophora-tetrasperma",
+      "name": "히메몬스테라",
+      "aliases": [
+        "히메 몬스테라",
+        "라피도포라",
+        "라피도포라 테트라스페르마",
+        "미니몬스테라",
+        "미니 몬스테라",
+        "mini monstera",
+        "rhaphidophora tetrasperma"
+      ],
+      "tags": [
+        "관엽",
+        "덩굴",
+        "초보추천",
+        "반려동물주의"
+      ],
+      "beginnerScore": 4,
+      "emoji": "🌱",
+      "light": "반양지",
+      "waterIntervalDays": 7,
+      "toxicToPets": true
+    },
+    {
+      "key": "rhapis",
+      "name": "관음죽",
+      "aliases": [
+        "레이디팜",
+        "라피스야자"
+      ],
+      "tags": [
+        "관엽",
+        "저광",
+        "공기정화",
+        "반려동물안전",
+        "초보추천"
+      ],
+      "beginnerScore": 4,
+      "emoji": "🌴",
+      "light": "반음지",
+      "waterIntervalDays": 7,
+      "toxicToPets": false
+    },
+    {
+      "key": "rhipsalis",
+      "name": "립살리스",
+      "aliases": [
+        "립살리스 뽀빠이",
+        "립살리스 카수타",
+        "립살리스 파라독사",
+        "립살리스 바치페라",
+        "겨우살이선인장",
+        "미슬토캑터스",
+        "mistletoe cactus"
+      ],
+      "tags": [
+        "다육",
+        "행잉",
+        "반려동물안전",
+        "초보추천"
+      ],
+      "beginnerScore": 4,
+      "emoji": "🌵",
+      "light": "반양지",
+      "waterIntervalDays": 10,
+      "toxicToPets": false
+    },
+    {
+      "key": "rosemary",
+      "name": "로즈마리",
+      "aliases": [
+        "로즈메리",
+        "rosemary",
+        "터스칸블루"
+      ],
+      "tags": [
+        "허브",
+        "목본",
+        "물적게",
+        "햇빛많이",
+        "반려동물안전",
+        "향"
+      ],
+      "beginnerScore": 2,
+      "emoji": "🌿",
+      "light": "양지",
+      "waterIntervalDays": 10,
+      "toxicToPets": false
+    },
+    {
+      "key": "sansevieria",
+      "name": "산세베리아",
+      "aliases": [
+        "산세베리아",
+        "뱀손가락"
+      ],
+      "tags": [
+        "다육",
+        "공기정화",
+        "물적게"
+      ],
+      "beginnerScore": 5,
+      "emoji": "🌵",
+      "light": "반음지",
+      "waterIntervalDays": 21,
+      "toxicToPets": true
+    },
+    {
+      "key": "schefflera-arboricola",
+      "name": "홍콩야자",
+      "aliases": [
+        "홍콩 야자",
+        "쉐프렐라",
+        "쉐플레라",
+        "셰플레라",
+        "홍콩쉐프렐라",
+        "홍콩 쉐프렐라",
+        "무늬홍콩야자",
+        "umbrella tree",
+        "umbrella plant"
+      ],
+      "tags": [
+        "관엽",
+        "목본",
+        "공기정화",
+        "초보추천",
+        "저광내성",
+        "반려동물주의"
+      ],
+      "beginnerScore": 4,
+      "emoji": "🌳",
+      "light": "반양지",
+      "waterIntervalDays": 7,
+      "toxicToPets": true
+    },
+    {
+      "key": "spathiphyllum",
+      "name": "스파티필럼",
+      "aliases": [
+        "스파티필름",
+        "스파티필룸",
+        "스파트필름",
+        "스파티",
+        "스파트",
+        "피스릴리",
+        "peace lily"
+      ],
+      "tags": [
+        "관엽",
+        "물좋아함",
+        "저광",
+        "반려동물주의"
+      ],
+      "beginnerScore": 4,
+      "emoji": "🌿",
+      "light": "반음지",
+      "waterIntervalDays": 5,
+      "toxicToPets": true
+    },
+    {
+      "key": "strelitzia",
+      "name": "여인초",
+      "aliases": [
+        "흰극락조",
+        "스트렐리치아",
+        "니콜라이",
+        "스트렐리치아 니콜라이"
+      ],
+      "tags": [
+        "관엽",
+        "대형",
+        "공기정화",
+        "반양지",
+        "반려동물주의"
+      ],
+      "beginnerScore": 4,
+      "emoji": "🌴",
+      "light": "반양지",
+      "waterIntervalDays": 10,
+      "toxicToPets": true
+    },
+    {
+      "key": "stuckyi",
+      "name": "스투키",
+      "aliases": [
+        "산세베리아 스투키",
+        "스투키 산세베리아",
+        "실린드리카",
+        "산세베리아 실린드리카",
+        "스투기"
+      ],
+      "tags": [
+        "다육",
+        "물적게",
+        "공기정화"
+      ],
+      "beginnerScore": 4,
+      "emoji": "🪴",
+      "light": "반양지",
+      "waterIntervalDays": 21,
+      "toxicToPets": true
+    },
+    {
+      "key": "syngonium",
+      "name": "싱고니움",
+      "aliases": [
+        "싱고늄",
+        "신고니움",
+        "싱고니엄",
+        "화이트버터플라이",
+        "핑크싱고니움",
+        "네온싱고니움",
+        "네온로브"
+      ],
+      "tags": [
+        "관엽",
+        "덩굴",
+        "저광",
+        "초보추천",
+        "반려동물주의"
+      ],
+      "beginnerScore": 4,
+      "emoji": "🌿",
+      "light": "반양지",
+      "waterIntervalDays": 7,
+      "toxicToPets": true
+    },
+    {
+      "key": "thaumatophyllum",
+      "name": "셀렘",
+      "aliases": [
+        "셀렘 필로덴드론",
+        "필로덴드론 셀렘",
+        "호프셀렘",
+        "호프 셀렘",
+        "필로덴드론 셀로움",
+        "셀로움",
+        "제나두",
+        "필로덴드론 제나두",
+        "타우마토필룸",
+        "tree philodendron"
+      ],
+      "tags": [
+        "관엽",
+        "큰식물",
+        "저광내성",
+        "반려동물주의"
+      ],
+      "beginnerScore": 4,
+      "emoji": "🌴",
+      "light": "반양지",
+      "waterIntervalDays": 7,
+      "toxicToPets": true
+    },
+    {
+      "key": "tillandsia-ionantha",
+      "name": "이오난사",
+      "aliases": [
+        "틸란드시아 이오난사",
+        "틸란드시아",
+        "틸란시아",
+        "에어플랜트",
+        "에어 플랜트",
+        "공중식물",
+        "이오난타",
+        "air plant",
+        "tillandsia ionantha"
+      ],
+      "tags": [
+        "착생",
+        "소형",
+        "물적게",
+        "반려동물안전",
+        "행잉"
+      ],
+      "beginnerScore": 3,
+      "emoji": "🌸",
+      "light": "반양지",
+      "waterIntervalDays": 7,
+      "toxicToPets": false
+    },
+    {
+      "key": "zamioculcas",
+      "name": "금전수",
+      "aliases": [
+        "돈나무",
+        "ZZ플랜트",
+        "자미오쿨카스"
+      ],
+      "tags": [
+        "관엽",
+        "물적게",
+        "저광내성",
+        "초보"
+      ],
+      "beginnerScore": 4,
+      "emoji": "🪴",
+      "light": "반양지",
+      "waterIntervalDays": 21,
+      "toxicToPets": true
+    }
+  ],
+  "tips": {
+    "pageCount": 1
+  },
+  "notice": {
+    "pageCount": 1
+  }
+}

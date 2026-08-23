@@ -1,0 +1,199 @@
+{
+  "page": 1,
+  "items": [
+    {
+      "week": "2026-W31",
+      "title": "여름 창가는 한 뼘만 물려주세요",
+      "body": "유리를 통과한 한여름 직사광은 실내식물에게 너무 셉니다. 창에서 한 뼘만 떨어뜨려도 잎이 타는 걸 막을 수 있어요.",
+      "contentPath": "static/content/tips/2026-W31-sunburn.html",
+      "speciesKeys": [
+        "calathea",
+        "maranta"
+      ]
+    },
+    {
+      "week": "2026-W31",
+      "title": "물은 아침에 주세요",
+      "body": "한낮에 주는 물은 뜨거워진 흙을 급하게 식힙니다. 아침에 주면 낮 동안 여분이 마르면서 과습도 덜해요.",
+      "contentPath": "static/content/tips/2026-W31-morning-watering.html",
+      "speciesKeys": [
+        "spathiphyllum"
+      ]
+    },
+    {
+      "week": "2026-W31",
+      "title": "다육이는 여름에 쉬어요",
+      "body": "에케베리아와 하월시아는 한여름에 성장을 멈춥니다. 이때 평소처럼 주면 물이 갈 데가 없어 뿌리가 상해요.",
+      "contentPath": "static/content/tips/2026-W31-succulent-summer-rest.html",
+      "speciesKeys": [
+        "echeveria",
+        "haworthia"
+      ]
+    },
+    {
+      "week": "2026-W32",
+      "title": "겉흙이 말라도 속은 젖어 있어요",
+      "body": "표면만 보고 주면 대부분 과습입니다. 손가락을 두 마디쯤 넣어 보고, 축축하면 며칠 더 기다려 주세요.",
+      "contentPath": "static/content/tips/2026-W32-topsoil-vs-below.html"
+    },
+    {
+      "week": "2026-W32",
+      "title": "받침에 고인 물은 바로 버려주세요",
+      "body": "물이 고여 있으면 뿌리가 숨을 못 쉽니다. 물을 준 뒤 삼십 분쯤 지나 받침을 비워 주세요.",
+      "contentPath": "static/content/tips/2026-W32-saucer-water.html",
+      "speciesKeys": [
+        "sansevieria",
+        "zamioculcas",
+        "stuckyi"
+      ]
+    },
+    {
+      "week": "2026-W32",
+      "title": "에어컨 바람이 직접 닿지 않게",
+      "body": "찬 바람이 계속 닿으면 잎끝부터 갈색으로 마릅니다. 바람길에서 비켜 두기만 해도 달라져요.",
+      "contentPath": "static/content/tips/2026-W32-aircon-draft.html",
+      "speciesKeys": [
+        "calathea",
+        "maranta",
+        "nephrolepis"
+      ]
+    },
+    {
+      "week": "2026-W33",
+      "title": "잎 뒷면에 하얀 점, 응애일 수 있어요",
+      "body": "덥고 건조하면 응애가 붙습니다. 잎이 뿌옇게 바래고 뒷면에 미세한 점이 보이면 확인해 보세요.",
+      "contentPath": "static/content/tips/2026-W33-spider-mites.html",
+      "speciesKeys": [
+        "hedera",
+        "ficus-elastica",
+        "rosemary"
+      ]
+    },
+    {
+      "week": "2026-W33",
+      "title": "바람이 통하면 병이 줄어요",
+      "body": "여름 실내는 습하고 공기가 멈춰 있어요. 하루 한 번 창문을 열어 두는 것만으로 곰팡이병이 크게 줄어듭니다.",
+      "contentPath": "static/content/tips/2026-W33-airflow.html",
+      "speciesKeys": [
+        "chamaedorea",
+        "howea"
+      ]
+    },
+    {
+      "week": "2026-W33",
+      "title": "흙에 작은 날파리가 보인다면",
+      "body": "버섯파리는 축축한 흙에 알을 낳습니다. 잡는 것보다 흙 표면을 마르게 하는 쪽이 빨라요.",
+      "contentPath": "static/content/tips/2026-W33-fungus-gnats.html"
+    },
+    {
+      "week": "2026-W34",
+      "title": "늦더위엔 물이 빨리 말라요",
+      "body": "8월 말은 아직 생장기예요. 겉흙이 마르는 속도가 6월보다 빠르니 한 번 더 확인해 주세요.",
+      "contentPath": "static/content/tips/2026-W34-late-heat.html",
+      "speciesKeys": [
+        "nephrolepis"
+      ]
+    },
+    {
+      "week": "2026-W34",
+      "title": "장마 끝, 통풍부터",
+      "body": "습한 날이 이어진 뒤에는 물보다 바람이 먼저예요. 창문을 열어 흙 표면을 말려 주세요.",
+      "contentPath": "static/content/tips/2026-W34-after-rainy-season.html",
+      "speciesKeys": [
+        "monstera"
+      ]
+    },
+    {
+      "week": "2026-W34",
+      "title": "9월 분갈이를 준비할 시기예요",
+      "body": "분갈이는 자라는 계절에 해야 회복이 빨라요. 지금은 화분이 좁아졌는지 확인만 해 두세요.",
+      "contentPath": "static/content/tips/2026-W34-repot-prep.html",
+      "speciesKeys": [
+        "pilea-peperomioides"
+      ]
+    },
+    {
+      "week": "2026-W35",
+      "title": "이오난사는 아침에 담그세요",
+      "body": "흙 없이 잎으로 물을 마시는 식물이에요. 담근 뒤 밑동에 물이 남은 채 밤을 넘기면 거기서 물러요. 아침에 담그고 저녁 전에 다 말려 주세요.",
+      "contentPath": "static/content/tips/2026-W35-tillandsia-evening-soak.html",
+      "speciesKeys": [
+        "tillandsia-ionantha"
+      ]
+    },
+    {
+      "week": "2026-W35",
+      "title": "홍콩야자 잎이 떨어지면 물부터 주지 마세요",
+      "body": "홍콩야자는 자리가 바뀌면 잎을 떨궈요. 새로 들인 지 얼마 안 됐다면 그게 원인이에요. 흙이 젖어 있는데 물을 더 주면 그때부터 진짜 문제가 시작돼요.",
+      "contentPath": "static/content/tips/2026-W35-schefflera-leaf-drop.html",
+      "speciesKeys": [
+        "schefflera-arboricola"
+      ]
+    },
+    {
+      "week": "2026-W35",
+      "title": "물에서 키우면 늦더위엔 물을 더 자주 갈아요",
+      "body": "개운죽과 워터코인처럼 물에 담가 키우는 식물은 더울수록 물이 빨리 상해요. 물이 탁해지거나 냄새가 나기 전에 갈아 주세요.",
+      "contentPath": "static/content/tips/2026-W35-water-grown-summer-change.html",
+      "speciesKeys": [
+        "dracaena-sanderiana",
+        "hydrocotyle"
+      ]
+    },
+    {
+      "week": "2026-W36",
+      "title": "알로카시아는 9월부터 물을 줄여 가요",
+      "body": "밤이 서늘해지면 알로카시아는 자라기를 멈춰요. 잎을 떨궈도 죽은 게 아니에요. 여름처럼 주면 뿌리줄기가 썩으니 겉흙이 마른 뒤에만 주세요.",
+      "contentPath": "static/content/tips/2026-W36-alocasia-autumn-cutback.html",
+      "speciesKeys": [
+        "alocasia"
+      ]
+    },
+    {
+      "week": "2026-W36",
+      "title": "호야 꽃이 진 자리는 자르지 마세요",
+      "body": "꽃이 진 뒤 줄기에 남는 짧은 꼭지가 꽃대예요. 마른 것처럼 보여도 다음 꽃이 같은 자리에서 피어요. 봉오리가 맺히면 화분도 옮기지 마세요.",
+      "contentPath": "static/content/tips/2026-W36-hoya-spur.html",
+      "speciesKeys": [
+        "hoya-carnosa"
+      ]
+    },
+    {
+      "week": "2026-W36",
+      "title": "덩굴에 지지대를 세우기 좋은 때예요",
+      "body": "히메몬스테라와 플로리다 뷰티는 타고 오를 게 있어야 잎이 커져요. 늘어뜨리면 잎이 작아지고 갈라지지도 않아요. 아직 자라는 9월에 세워 주세요.",
+      "contentPath": "static/content/tips/2026-W36-climber-support-autumn.html",
+      "speciesKeys": [
+        "rhaphidophora-tetrasperma",
+        "philodendron-florida-beauty"
+      ]
+    },
+    {
+      "week": "2026-W37",
+      "title": "보틀트리는 가을부터 말려요",
+      "body": "몸통에 물을 저장하는 나무예요. 기온이 내려가기 시작하면 흙이 완전히 마른 뒤에만 주고, 잎이 지기 시작하면 거의 끊어요. 젖은 채로 추워지는 게 제일 위험해요.",
+      "contentPath": "static/content/tips/2026-W37-brachychiton-autumn-dry.html",
+      "speciesKeys": [
+        "brachychiton"
+      ]
+    },
+    {
+      "week": "2026-W37",
+      "title": "오렌지자스민 꽃이 안 온다면 자리부터 보세요",
+      "body": "잎만 보고 키우면 반그늘에서도 살지만, 꽃과 향은 해가 직접 드는 창가에서만 와요. 실내에서 꽃이 안 온다면 거의 항상 빛이 부족한 거예요.",
+      "contentPath": "static/content/tips/2026-W37-murraya-no-bloom.html",
+      "speciesKeys": [
+        "murraya-paniculata"
+      ]
+    },
+    {
+      "week": "2026-W37",
+      "title": "아스파라거스 누런 줄기는 밑동에서 잘라요",
+      "body": "늙은 줄기는 누렇게 변하면서 잎을 떨궈요. 물 문제가 아니에요. 밑동에서 잘라 주면 흙에서 새 순이 올라와 다시 채워져요.",
+      "contentPath": "static/content/tips/2026-W37-asparagus-yellow-stems.html",
+      "speciesKeys": [
+        "asparagus-myrioclados"
+      ]
+    }
+  ]
+}
