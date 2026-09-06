@@ -62,14 +62,96 @@ p {
     color: #42493E;
 }
 
-/* A callout for the one line a reader should not miss. */
-.note {
+/* Blocks.
+ *
+ * A block is a component the author names in the markdown (::: note, ::: warn,
+ * ::: steps). The shape is shared and the tint carries the meaning, so a page
+ * reads as one document rather than a stack of unrelated cards. Adding a block
+ * is a name in bake.rb and a tint here. */
+.block {
     margin: 20px 0;
     padding: 14px 16px;
     border-radius: 12px;
     background: #EFF3EA;
     color: #2F3A2A;
     font-size: 15px;
+}
+
+.block > :first-child { margin-top: 0; }
+.block > :last-child { margin-bottom: 0; }
+
+.block p {
+    font-size: 15px;
+    color: inherit;
+}
+
+/* The block's own heading. Smaller than an h2 on purpose: a block sits inside a
+ * section and must not compete with the section it sits in. */
+.block-title {
+    font-weight: 600;
+    margin: 0 0 6px;
+    color: #1B1C19;
+}
+
+/* The one line a reader should not miss. */
+.block--note {
+    background: #EFF3EA;
+}
+
+/* Do not do this. Amber is the app's colour for a thing that is off, and it is
+ * a background here because it fails contrast as text. */
+.block--warn {
+    background: #FCF0DC;
+    color: #4A3B1B;
+    border-left: 3px solid #E8930C;
+    border-radius: 4px 12px 12px 4px;
+}
+
+.block--warn .block-title { color: #4A3B1B; }
+
+/* What to do today, in order. The counter is the point, so it gets room. */
+.block--steps {
+    background: #FFFFFF;
+    border: 1px solid #C2C9BB;
+}
+
+.block--steps ol,
+.block--steps ul {
+    margin: 0;
+    padding-left: 20px;
+}
+
+.block--steps li {
+    margin: 0 0 8px;
+}
+
+/* The date the post carries. Under the title on a tip, above it on a notice:
+ * a tip is read for what it says, a notice for when it was said. */
+.meta {
+    font-size: 13px;
+    color: #82887A;
+    margin: -8px 0 20px;
+}
+
+.eyebrow {
+    font-size: 13px;
+    font-weight: 600;
+    color: #2D5A27;
+    margin: 0 0 6px;
+}
+
+/* Per-template variation. The document shell is one file; what changes between
+ * kinds of page is here. */
+.doc--tips h1 {
+    font-size: 23px;
+}
+
+.doc--notice h1 {
+    font-size: 20px;
+}
+
+.doc--notice main {
+    padding-top: 20px;
 }
 
 /* No dark variant on purpose.
@@ -80,3 +162,34 @@ p {
  * reader tapped a cream list and landed on a black page, which reads as a different
  * app rather than a theme. The colour above is the app's background verbatim; leave
  * it as the only one. */
+
+ul, ol {
+    font-size: 16px;
+    margin: 0 0 12px;
+    padding-left: 22px;
+    color: #42493E;
+}
+
+li {
+    margin: 0 0 6px;
+}
+
+/* Emphasis is ink, not weight alone: the body sits a shade lighter than headings,
+ * so a bold run also steps back to the heading colour. */
+strong {
+    font-weight: 600;
+    color: #1B1C19;
+}
+
+/* The one paragraph under the title that says what the page is about. */
+.lead {
+    font-size: 17px;
+    color: #1B1C19;
+}
+
+/* Links take the app's primary green; the page has no other blue or accent. */
+a {
+    color: #2D5A27;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+}
