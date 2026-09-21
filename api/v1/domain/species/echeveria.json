@@ -18,8 +18,7 @@
     "waterIntervalDays": 14,
     "light": "양지",
     "minTempC": 5,
-    "toxicToPets": false,
-    "soilEvaporationShare": 0.7
+    "toxicToPets": false
   },
   "season": [
     2,

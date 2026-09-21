@@ -1,7 +1,30 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "cfd5a91233a7",
+  "dataVersion": "2d902dd096c0",
   "species": [
+    {
+      "key": "adiantum",
+      "name": "아디안텀",
+      "aliases": [
+        "아디안툼",
+        "아디안텀 고사리",
+        "아디안텀고사리",
+        "공작고사리",
+        "메이든헤어",
+        "메이든헤어펀",
+        "maidenhair fern"
+      ],
+      "tags": [
+        "관엽",
+        "고습도",
+        "물좋아함",
+        "소형"
+      ],
+      "beginnerScore": 1,
+      "emoji": "🌿",
+      "light": "반양지",
+      "waterIntervalDays": 5
+    },
     {
       "key": "aglaonema",
       "name": "아글라오네마",
@@ -18,7 +41,7 @@
       ],
       "tags": [
         "관엽",
-        "저광",
+        "저광내성",
         "공기정화",
         "추위주의",
         "반려동물주의"
@@ -71,7 +94,7 @@
       ],
       "tags": [
         "관엽",
-        "꽃보기",
+        "꽃",
         "고습도",
         "반려동물주의"
       ],
@@ -87,21 +110,20 @@
       "aliases": [
         "아스파라거스 미리오",
         "미리오클라두스",
+        "미리오크라두스",
         "미리오클라도스",
-        "아스파라거스 마코와니",
         "아스파라거스 레트로프락투스",
-        "밍펀",
-        "ming fern"
+        "밍펀"
       ],
       "tags": [
         "관엽",
-        "소형",
+        "물적게",
         "반려동물주의"
       ],
       "beginnerScore": 3,
       "emoji": "🌲",
       "light": "반양지",
-      "waterIntervalDays": 7,
+      "waterIntervalDays": 10,
       "toxicToPets": true
     },
     {
@@ -134,22 +156,22 @@
       "name": "보틀트리",
       "aliases": [
         "보틀 트리",
-        "브라키치톤",
         "브라키키톤",
-        "병나무",
+        "브라키치톤",
         "퀸즐랜드 보틀트리",
-        "브라키치톤 루페스트리스",
+        "퀸즐랜드보틀트리",
+        "브라키키톤 루페스트리스",
         "bottle tree"
       ],
       "tags": [
         "목본",
+        "목대",
         "물적게",
         "햇빛많이",
-        "목대",
         "추위주의"
       ],
       "beginnerScore": 3,
-      "emoji": "🌵",
+      "emoji": "🌳",
       "light": "양지",
       "waterIntervalDays": 14
     },
@@ -171,8 +193,9 @@
       "tags": [
         "관엽",
         "물좋아함",
-        "저광",
-        "습도높음",
+        "저광내성",
+        "고습도",
+        "추위주의",
         "반려동물안전",
         "무늬잎"
       ],
@@ -191,7 +214,7 @@
       ],
       "tags": [
         "관엽",
-        "저광",
+        "저광내성",
         "공기정화",
         "반려동물안전",
         "초보추천"
@@ -218,7 +241,6 @@
       ],
       "tags": [
         "관엽",
-        "공기정화",
         "반려동물안전",
         "초보추천",
         "행잉"
@@ -230,19 +252,132 @@
       "toxicToPets": false
     },
     {
+      "key": "coffea",
+      "name": "커피나무",
+      "aliases": [
+        "커피",
+        "커피 나무",
+        "아라비카",
+        "아라비카 커피",
+        "코페아",
+        "coffee plant",
+        "coffea"
+      ],
+      "tags": [
+        "관엽",
+        "목본",
+        "큰식물",
+        "반려동물주의"
+      ],
+      "beginnerScore": 3,
+      "emoji": "☕",
+      "light": "반양지",
+      "waterIntervalDays": 7,
+      "toxicToPets": true
+    },
+    {
+      "key": "cupressus-macrocarpa",
+      "name": "율마",
+      "aliases": [
+        "골드크레스트",
+        "골드크레스트윌마",
+        "레몬사이프러스",
+        "율마나무",
+        "goldcrest"
+      ],
+      "tags": [
+        "목본",
+        "침엽수",
+        "햇빛많이",
+        "물좋아함",
+        "고습도",
+        "향"
+      ],
+      "beginnerScore": 2,
+      "emoji": "🌲",
+      "light": "양지",
+      "waterIntervalDays": 5
+    },
+    {
+      "key": "curio-rowleyanus",
+      "name": "녹영",
+      "aliases": [
+        "그린네크리스",
+        "그린 네크리스",
+        "그린네클리스",
+        "진주목걸이",
+        "무늬녹영",
+        "녹영 바리에가타",
+        "애녹영",
+        "세네시오 로울리아누스",
+        "큐리오 로울리아누스",
+        "스트링오브펄",
+        "스트링오브펄스",
+        "스트링 오브 펄스",
+        "string of pearls"
+      ],
+      "tags": [
+        "다육",
+        "행잉",
+        "덩굴",
+        "물적게",
+        "반려동물주의"
+      ],
+      "beginnerScore": 2,
+      "emoji": "🪴",
+      "light": "반양지",
+      "waterIntervalDays": 14,
+      "toxicToPets": true
+    },
+    {
+      "key": "dischidia",
+      "name": "디시디아",
+      "aliases": [
+        "밀리언하트",
+        "디시디아 밀리언하트",
+        "디스키디아",
+        "디시디아 루스시폴리아",
+        "디시디아 누물라리아",
+        "디시디아 오바타",
+        "수박디시디아",
+        "스트링오브니켈",
+        "million hearts",
+        "dischidia"
+      ],
+      "tags": [
+        "다육",
+        "착생",
+        "행잉",
+        "덩굴",
+        "물적게",
+        "소형",
+        "반려동물주의"
+      ],
+      "beginnerScore": 3,
+      "emoji": "💚",
+      "light": "반양지",
+      "waterIntervalDays": 10,
+      "toxicToPets": true
+    },
+    {
       "key": "dracaena-fragrans",
       "name": "행운목",
       "aliases": [
         "맛상게아나",
         "마상게아나",
         "드라세나 맛상게아나",
-        "옥수수나무"
+        "옥수수나무",
+        "corn plant"
       ],
       "tags": [
         "관엽",
         "공기정화",
-        "저광",
+        "저광내성",
+        "물적게",
         "초보추천",
+        "목대",
+        "무늬잎",
+        "큰식물",
         "반려동물주의"
       ],
       "beginnerScore": 4,
@@ -304,6 +439,27 @@
       "toxicToPets": true
     },
     {
+      "key": "dypsis-lutescens",
+      "name": "아레카야자",
+      "aliases": [
+        "아레카 야자",
+        "아레카",
+        "황야자"
+      ],
+      "tags": [
+        "관엽",
+        "공기정화",
+        "반려동물안전",
+        "큰식물",
+        "고습도"
+      ],
+      "beginnerScore": 3,
+      "emoji": "🌴",
+      "light": "반양지",
+      "waterIntervalDays": 7,
+      "toxicToPets": false
+    },
+    {
       "key": "echeveria",
       "name": "에케베리아",
       "aliases": [
@@ -346,6 +502,29 @@
       "toxicToPets": true
     },
     {
+      "key": "ficus-benjamina",
+      "name": "벤자민고무나무",
+      "aliases": [
+        "벤자민",
+        "벤자민나무",
+        "벤저민고무나무",
+        "벤자민바로크"
+      ],
+      "tags": [
+        "관엽",
+        "공기정화",
+        "목본",
+        "큰식물",
+        "반려동물주의",
+        "추위주의"
+      ],
+      "beginnerScore": 3,
+      "emoji": "🌳",
+      "light": "반양지",
+      "waterIntervalDays": 7,
+      "toxicToPets": true
+    },
+    {
       "key": "ficus-elastica",
       "name": "인도고무나무",
       "aliases": [
@@ -371,6 +550,29 @@
       "toxicToPets": true
     },
     {
+      "key": "ficus-lyrata",
+      "name": "떡갈고무나무",
+      "aliases": [
+        "떡갈잎고무나무",
+        "떡갈잎 고무나무",
+        "떡갈고무",
+        "피들리프피그",
+        "피들리프",
+        "바이올린고무나무"
+      ],
+      "tags": [
+        "관엽",
+        "목대",
+        "큰식물",
+        "반려동물주의"
+      ],
+      "beginnerScore": 2,
+      "emoji": "🌳",
+      "light": "반양지",
+      "waterIntervalDays": 7,
+      "toxicToPets": true
+    },
+    {
       "key": "haworthia",
       "name": "하월시아",
       "aliases": [
@@ -380,7 +582,8 @@
         "오브투사",
         "십이지권",
         "옥선",
-        "만상"
+        "만상",
+        "제브라 하월시아"
       ],
       "tags": [
         "다육",
@@ -430,7 +633,7 @@
       ],
       "tags": [
         "관엽",
-        "저광",
+        "저광내성",
         "큰식물",
         "반려동물안전",
         "초보추천"
@@ -477,6 +680,7 @@
         "하이드로코타일",
         "하이드로코틸레",
         "동전풀",
+        "페니워트",
         "water pennywort",
         "pennywort"
       ],
@@ -484,6 +688,7 @@
         "관엽",
         "물좋아함",
         "햇빛많이",
+        "고습도",
         "소형",
         "수경",
         "초보추천"
@@ -491,7 +696,58 @@
       "beginnerScore": 4,
       "emoji": "🪙",
       "light": "양지",
-      "waterIntervalDays": 3
+      "waterIntervalDays": 5
+    },
+    {
+      "key": "kalanchoe",
+      "name": "칼랑코에",
+      "aliases": [
+        "칼란코에",
+        "카랑코에",
+        "칼란디바",
+        "겹칼랑코에",
+        "flaming katy"
+      ],
+      "tags": [
+        "다육",
+        "꽃",
+        "겨울개화",
+        "물적게",
+        "햇빛많이",
+        "소형",
+        "반려동물주의"
+      ],
+      "beginnerScore": 4,
+      "emoji": "🌼",
+      "light": "양지",
+      "waterIntervalDays": 14,
+      "toxicToPets": true
+    },
+    {
+      "key": "lithops",
+      "name": "리톱스",
+      "aliases": [
+        "리토프스",
+        "살아있는 돌",
+        "자갈풀",
+        "돌 다육이",
+        "일륜옥",
+        "부귀옥",
+        "자훈",
+        "대내옥"
+      ],
+      "tags": [
+        "다육",
+        "물적게",
+        "소형",
+        "햇빛많이",
+        "반려동물안전"
+      ],
+      "beginnerScore": 1,
+      "emoji": "🪨",
+      "light": "양지",
+      "waterIntervalDays": 21,
+      "toxicToPets": false
     },
     {
       "key": "maranta",
@@ -523,11 +779,19 @@
       "key": "monstera",
       "name": "몬스테라",
       "aliases": [
-        "몬스테라 델리시오사"
+        "몬스테라 델리시오사",
+        "델리시오사",
+        "몬스테리아",
+        "몬테라",
+        "스위스치즈플랜트",
+        "monstera"
       ],
       "tags": [
         "관엽",
-        "공기정화"
+        "덩굴",
+        "큰식물",
+        "반려동물주의",
+        "초보추천"
       ],
       "beginnerScore": 4,
       "emoji": "🪴",
@@ -542,17 +806,18 @@
         "오렌지 자스민",
         "오렌지쟈스민",
         "오렌지 재스민",
+        "오렌지자스민나무",
         "무라야",
-        "무라야 파니쿨라타",
         "향기나무",
-        "orange jessamine",
-        "orange jasmine"
+        "orange jasmine",
+        "orange jessamine"
       ],
       "tags": [
         "목본",
         "꽃",
         "향",
-        "햇빛많이"
+        "햇빛많이",
+        "추위주의"
       ],
       "beginnerScore": 3,
       "emoji": "🌼",
@@ -631,6 +896,57 @@
       "toxicToPets": false
     },
     {
+      "key": "pachira",
+      "name": "파키라",
+      "aliases": [
+        "파키라 아쿠아티카",
+        "머니트리",
+        "머니 트리",
+        "money tree",
+        "꽈배기파키라",
+        "꽈배기 파키라",
+        "파키라나무"
+      ],
+      "tags": [
+        "관엽",
+        "공기정화",
+        "목본",
+        "목대",
+        "큰식물",
+        "반려동물안전"
+      ],
+      "beginnerScore": 3,
+      "emoji": "🌳",
+      "light": "반양지",
+      "waterIntervalDays": 10,
+      "toxicToPets": false
+    },
+    {
+      "key": "pelargonium",
+      "name": "제라늄",
+      "aliases": [
+        "제라니움",
+        "펠라고니움",
+        "로즈제라늄",
+        "구문초",
+        "아이비제라늄",
+        "geranium",
+        "pelargonium"
+      ],
+      "tags": [
+        "꽃",
+        "햇빛많이",
+        "물적게",
+        "향",
+        "반려동물주의"
+      ],
+      "beginnerScore": 3,
+      "emoji": "🌺",
+      "light": "양지",
+      "waterIntervalDays": 10,
+      "toxicToPets": true
+    },
+    {
       "key": "peperomia",
       "name": "페페로미아",
       "aliases": [
@@ -647,7 +963,7 @@
       "tags": [
         "관엽",
         "물적게",
-        "저광",
+        "저광내성",
         "소형",
         "반려동물안전",
         "초보추천"
@@ -779,7 +1095,7 @@
       "tags": [
         "관엽",
         "덩굴",
-        "저광",
+        "저광내성",
         "물적게",
         "초보추천",
         "반려동물주의"
@@ -823,7 +1139,7 @@
       ],
       "tags": [
         "관엽",
-        "저광",
+        "저광내성",
         "공기정화",
         "반려동물안전",
         "초보추천"
@@ -842,12 +1158,13 @@
         "립살리스 카수타",
         "립살리스 파라독사",
         "립살리스 바치페라",
-        "겨우살이선인장",
-        "미슬토캑터스",
+        "립살리스 오롱가",
+        "립살리스 폭스테일",
         "mistletoe cactus"
       ],
       "tags": [
         "다육",
+        "착생",
         "행잉",
         "반려동물안전",
         "초보추천"
@@ -881,20 +1198,53 @@
       "toxicToPets": false
     },
     {
+      "key": "saintpaulia",
+      "name": "아프리칸바이올렛",
+      "aliases": [
+        "아프리칸 바이올렛",
+        "아프리칸바이올릿",
+        "아프리카제비꽃",
+        "아프리칸제비꽃",
+        "세인트폴리아",
+        "센트폴리아",
+        "african violet",
+        "saintpaulia"
+      ],
+      "tags": [
+        "꽃",
+        "소형",
+        "반려동물안전"
+      ],
+      "beginnerScore": 3,
+      "emoji": "🌸",
+      "light": "반양지",
+      "waterIntervalDays": 7,
+      "toxicToPets": false
+    },
+    {
       "key": "sansevieria",
       "name": "산세베리아",
       "aliases": [
-        "산세베리아",
-        "뱀손가락"
+        "산세비에리아",
+        "산세배리아",
+        "산세",
+        "산세베리아 로렌티",
+        "로렌티",
+        "로렌시",
+        "뱀손가락",
+        "스네이크플랜트",
+        "snake plant"
       ],
       "tags": [
         "다육",
-        "공기정화",
-        "물적게"
+        "물적게",
+        "저광내성",
+        "초보추천",
+        "반려동물주의"
       ],
-      "beginnerScore": 5,
-      "emoji": "🌵",
-      "light": "반음지",
+      "beginnerScore": 4,
+      "emoji": "🪴",
+      "light": "반양지",
       "waterIntervalDays": 21,
       "toxicToPets": true
     },
@@ -927,6 +1277,29 @@
       "toxicToPets": true
     },
     {
+      "key": "schlumbergera",
+      "name": "게발선인장",
+      "aliases": [
+        "크리스마스선인장",
+        "가재발선인장",
+        "개발선인장",
+        "슐룸베르게라",
+        "christmas cactus"
+      ],
+      "tags": [
+        "다육",
+        "꽃",
+        "겨울개화",
+        "반려동물안전",
+        "초보추천"
+      ],
+      "beginnerScore": 4,
+      "emoji": "🌸",
+      "light": "반양지",
+      "waterIntervalDays": 10,
+      "toxicToPets": false
+    },
+    {
       "key": "spathiphyllum",
       "name": "스파티필럼",
       "aliases": [
@@ -940,14 +1313,13 @@
       ],
       "tags": [
         "관엽",
-        "물좋아함",
-        "저광",
+        "저광내성",
         "반려동물주의"
       ],
       "beginnerScore": 4,
       "emoji": "🌿",
       "light": "반음지",
-      "waterIntervalDays": 5,
+      "waterIntervalDays": 7,
       "toxicToPets": true
     },
     {
@@ -961,9 +1333,8 @@
       ],
       "tags": [
         "관엽",
-        "대형",
+        "큰식물",
         "공기정화",
-        "반양지",
         "반려동물주의"
       ],
       "beginnerScore": 4,
@@ -1008,7 +1379,7 @@
       "tags": [
         "관엽",
         "덩굴",
-        "저광",
+        "저광내성",
         "초보추천",
         "반려동물주의"
       ],
@@ -1084,7 +1455,7 @@
         "관엽",
         "물적게",
         "저광내성",
-        "초보"
+        "초보추천"
       ],
       "beginnerScore": 4,
       "emoji": "🪴",

@@ -13,7 +13,7 @@
   "tags": [
     "관엽",
     "덩굴",
-    "저광",
+    "저광내성",
     "초보추천",
     "반려동물주의"
   ],
@@ -22,7 +22,6 @@
   "base": {
     "waterIntervalDays": 7,
     "light": "반양지",
-    "minLightLux": 100,
     "minTempC": 15,
     "humidity": "보통",
     "toxicToPets": true

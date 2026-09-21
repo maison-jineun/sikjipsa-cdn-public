@@ -6,6 +6,7 @@
     "하이드로코타일",
     "하이드로코틸레",
     "동전풀",
+    "페니워트",
     "water pennywort",
     "pennywort"
   ],
@@ -13,6 +14,7 @@
     "관엽",
     "물좋아함",
     "햇빛많이",
+    "고습도",
     "소형",
     "수경",
     "초보추천"
@@ -20,9 +22,9 @@
   "beginnerScore": 4,
   "emoji": "🪙",
   "base": {
-    "waterIntervalDays": 3,
+    "waterIntervalDays": 5,
     "light": "양지",
-    "minTempC": 5,
+    "minTempC": 10,
     "humidity": "높음"
   },
   "season": [
@@ -65,7 +67,7 @@
         9
       ],
       "everyDays": 30,
-      "note": "성장기에만 표시 농도의 절반으로 묽게 줘요. 받침에 물을 두고 키우면 비료가 씻겨 나가지 않으니 더 묽게 줘요."
+      "note": "자라는 동안만, 표시 농도보다 묽게 줘요. 받침에 물을 받아 키우면 비료가 씻겨 나가지 않고 남으니 절반 농도로 줄여요."
     },
     {
       "kind": "repot",
@@ -73,83 +75,92 @@
         4,
         5
       ],
-      "note": "화분 가득 잎이 차서 가운데가 노래지면 옮길 때예요. 큰 화분으로 올리기보다 포기를 둘로 나눠 심는 편이 모양이 좋아요."
+      "note": "화분 가운데 잎이 노래지고 빽빽해지면 옮길 때예요. 더 큰 화분으로 올리기보다 포기를 둘로 갈라 심는 편이 모양이 예쁘게 남아요."
     },
     {
       "kind": "prune",
       "months": [
-        4,
         5,
         6,
         7,
         8,
         9
       ],
-      "note": "화분 밖으로 뻗어 나온 줄기를 잘라 줘요. 잘라 낸 줄기는 마디마다 뿌리가 있어 물이나 흙에 올려 두면 새 포기가 돼요."
+      "note": "화분 밖으로 길게 뻗은 줄기를 잘라 줘요. 자른 줄기는 마디마다 뿌리가 있어서 물컵에 꽂아 두면 새 포기가 돼요."
     },
     {
       "kind": "winterize",
       "months": [
         11
       ],
-      "note": "겨울에도 흙이 마르면 안 돼요. 다만 자라는 속도가 느려지니 받침 물이 줄어드는 만큼만 보충해요. 밤에 찬 유리창에 잎이 닿는 자리는 피해요."
+      "note": "겨울에도 흙을 바싹 말리지 마세요. 자라는 속도가 느려지니 받침 물이 줄어드는 만큼만 채워 주면 돼요. 밤에 창가와 베란다는 생각보다 많이 떨어져요. 10℃ 아래로 내려가는 자리면 안쪽으로 들이고, 찬 유리창에 잎이 닿는 자리는 피해요."
     }
   ],
   "symptoms": [
     {
-      "sign": "잎이 줄기째 축 처졌어요",
+      "sign": "잎이 줄기째 힘없이 푹 처졌어요",
       "causes": [
         "물 부족"
       ],
-      "action": "받침에 물이 있는지 봐요. 비어 있으면 받침이 잠길 만큼 물을 주면 몇 시간 안에 다시 서요. 이 식물은 마르면 바로 처지고 물을 주면 바로 서서 물 부족을 알아채기 쉬워요."
+      "action": "받침에 물이 남아 있는지 보고, 비었으면 화분 밑으로 물이 흐를 만큼 흠뻑 주세요. 몇 시간 안에 다시 일어섭니다. 이 식물은 마르면 바로 티가 나고 물을 주면 바로 돌아와요."
+    },
+    {
+      "sign": "줄기만 길게 늘어지고 잎이 작아졌어요",
+      "causes": [
+        "빛 부족"
+      ],
+      "action": "창가 쪽 가장 밝은 자리로 옮겨 주세요. 빛이 모자라면 빛을 찾느라 줄기만 뻗고 잎이 듬성해져요. 늘어진 줄기는 잘라 내면 아래에서 새로 촘촘하게 올라와요."
     },
     {
       "sign": "잎이 노랗게 변해요",
       "causes": [
         "빛 부족",
-        "화분에 잎이 너무 빽빽함",
-        "비료 부족"
+        "포기가 너무 빽빽함",
+        "양분 부족"
       ],
-      "action": "먼저 더 밝은 자리로 옮겨요. 화분 가운데 잎이 노래지면 포기를 나눠 심어요. 봄·여름이라면 묽은 비료를 줘 봐요."
+      "action": "어느 잎이 노래졌는지로 갈려요. 화분 가운데만 노랗게 뜨고 겉만 자란다면 가운데까지 빛과 바람이 못 드는 상태니 봄에 포기를 갈라 나눠 심고 뜬 잎은 뽑아 주세요. 화분 전체가 고르게 옅어지면 더 밝은 자리로 옮기세요. 새 잎만 연해지면 봄·여름에 묽은 비료를 줘 보세요. 이 식물은 젖은 흙이 정상이라 다른 화분과 달리 과습은 노란 잎의 원인이 아니에요."
     },
     {
-      "sign": "잎 가장자리가 갈색으로 타요",
+      "sign": "잎 가장자리가 갈색으로 말라붙어요",
       "causes": [
-        "한여름 유리창 직사광",
+        "한여름 유리창 바로 뒤의 직사광",
         "물 부족"
       ],
-      "action": "햇빛을 좋아하지만 여름 한낮 유리창 바로 뒤는 뜨거워요. 한 걸음 안쪽으로 옮기고 받침 물이 마르지 않게 해요."
+      "action": "햇빛을 좋아하지만 여름 한낮 유리 바로 뒤는 너무 뜨거워요. 한 걸음 안쪽으로 물리고 흙이 마르지 않게 해 주세요."
     },
     {
-      "sign": "흙 위에 흰 곰팡이나 날파리가 생겨요",
+      "sign": "흙 위에 흰 곰팡이가 피거나 작은 날파리가 날아다녀요",
       "causes": [
-        "통풍 부족",
-        "늘 젖어 있는 흙"
+        "늘 젖어 있는 흙",
+        "통풍 부족"
       ],
-      "action": "흙이 늘 젖어 있어야 하는 식물이라 통풍이 답이에요. 창을 열거나 작은 선풍기로 바람을 돌리고, 겉흙에 마사토를 얇게 덮으면 날파리가 줄어요."
+      "action": "흙이 젖어 있어야 하는 식물이라 물을 줄이는 대신 바람으로 풀어요. 창을 열거나 작은 선풍기를 약하게 돌리고, 겉흙에 마사토를 얇게 덮으면 곰팡이도 날파리 알자리도 줄어요. 겉흙에 핀 흰 곰팡이는 걷어 내면 되고 뿌리를 상하게 하지는 않아요."
     },
     {
-      "sign": "새 잎에 작은 벌레가 붙어 있어요",
+      "sign": "받침 물이 초록빛으로 흐려지고 냄새가 나요",
+      "causes": [
+        "받침 물을 오래 갈지 않음"
+      ],
+      "action": "받침을 씻고 새 물로 갈아 주세요. 일주일에 한 번이면 충분해요. 여름에는 고인 물에 모기가 알을 낳을 수 있어 더 자주 갈아요."
+    },
+    {
+      "sign": "새 잎과 줄기에 작은 벌레가 붙어 있어요",
       "causes": [
         "진딧물",
         "깍지벌레"
       ],
-      "action": "욕실에서 물줄기로 씻어내고 다른 화분과 떨어뜨려요. 며칠 간격으로 두세 번 반복해요. 통풍이 안 되는 자리에서 잘 생겨요."
-    },
-    {
-      "sign": "줄기만 길어지고 잎이 작아져요",
-      "causes": [
-        "빛 부족"
-      ],
-      "action": "창가 가장 밝은 자리로 옮겨요. 빛이 부족하면 줄기를 길게 뻗어 빛을 찾느라 잎이 작아지고 듬성해져요."
+      "action": "욕실에서 물줄기로 씻어 내고 다른 화분과 떨어뜨려 두세요. 며칠 간격으로 두세 번 반복해요. 바람이 안 통하는 자리에서 잘 생겨요."
     }
   ],
   "source": [
-    "저술: 식물생태학 원리(plantcare-water 건조 3단계·1단계 앵커 5일·계절 이동, plantcare-pot 기준 화분, plantcare-killers 가역성 순위·분갈이 적기 4~5월)",
-    "확인: NC State Extension Gardener Plant Toolbox, Hydrocotyle umbellata — Full sun / Partial shade, 토양 수분 Moist·Occasional Flooding·Occasionally Wet, USDA zone 4a~10b, 성장 Rapid, 기는 뿌리로 퍼져 매트 형성·일부 지역 noxious weed, 번식 Division·Seed, 'Leaves cause nausea. Keep away from children' (plants.ces.ncsu.edu/plants/hydrocotyle-umbellata/)",
+    "저술: 식물생태학 원리(plantcare-water 건조 3단계·1단계 앵커 5일, plantcare-pot 기준 화분 15cm 비다공성, plantcare-light 창에서의 거리, plantcare-killers 가역성 순위·분갈이 적기 4~5월)",
+    "확인: NC State Extension Gardener Plant Toolbox, Hydrocotyle umbellata — Full sun / Partial shade, 토양 수분 Moist·Occasional Flooding·Occasionally Wet(배수 나쁜 습한 흙 선호), USDA zone 4a~10b, 성장 Rapid, 기는 뿌리로 퍼져 매트 형성·일부 지역 noxious weed, 번식 Division·Seed, 'Leaves cause nausea. Keep away from children' (plants.ces.ncsu.edu/plants/hydrocotyle-umbellata/)",
     "확인: Texas A&M AquaPlant, Whorled pennywort(Hydrocotyle verticillata) — 하천변·얕은 물·습지·진흙에서 자라는 기는 줄기 식물, 잎 지름 최대 6cm (aquaplant.tamu.edu)",
     "확인: Wikipedia, Hydrocotyle verticillata — 남·북미 원산, 습지·늪 서식, 어항 전경 식물로 널리 사용, 최소 중간 광량 (en.wikipedia.org/wiki/Hydrocotyle_verticillata)",
-    "확인: ASPCA 독성·비독성 식물 목록(고양이·개) — Hydrocotyle / Pennywort 항목 없음 (aspca.org)",
-    "확인: 국내 재배 안내 다수(트리플라넷·홈가든넷·그루우) — '워터코인 = Hydrocotyle verticillata' 유통명, 햇빛 선호·여름 직사 잎 화상, 흙이 마르지 않게·수경 가능, 물 부족 시 줄기째 처짐, 통풍 부족 시 곰팡이·진딧물·깍지벌레, 포기나누기 번식, 온도 16~26℃ 안내"
+    "확인: ASPCA 독성·비독성 식물 목록(고양이·개) — Hydrocotyle / Pennywort 항목 없음 (aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants)",
+    "확인(2차): 국내 재배 안내 다수(트리플라넷·홈가든넷·그루우) — '워터코인 = Hydrocotyle verticillata' 유통명, 햇빛 선호·여름 직사 잎 화상, 흙이 마르지 않게·수경 가능, 물 부족 시 줄기째 처짐, 통풍 부족 시 곰팡이·진딧물·깍지벌레, 포기나누기 번식, 온도 16~26℃ 안내",
+    "대조(검증 세션 제시): The Pond Outlet, Hydrocotyle verticillata — USDA zone 5~11 (thepondoutlet.com/marsh-whorled-pennywort-hydrocotyle-verticillata)",
+    "대조(검증 세션 제시): Top Tropicals, Hydrocotyle leucocephala(브라질 페니워트, 어항 유통) — USDA zone 9a~11b, 적온 22~28℃ (toptropicals.com/catalog/uid/hydrocotyle_leucocephala.htm)",
+    "대조: 앱 코드 — src/domain/StandingRisk.ts:23, src/ui/StandingRisks.tsx:44, src/domain/DailyBriefing.ts:67 (reasoning.conflict 참조)"
   ]
 }
