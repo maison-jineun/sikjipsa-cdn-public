@@ -1,0 +1,163 @@
+{
+  "key": "dischidia",
+  "name": "디시디아",
+  "aliases": [
+    "밀리언하트",
+    "디시디아 밀리언하트",
+    "디스키디아",
+    "디시디아 루스시폴리아",
+    "디시디아 누물라리아",
+    "디시디아 오바타",
+    "수박디시디아",
+    "스트링오브니켈",
+    "million hearts",
+    "dischidia"
+  ],
+  "tags": [
+    "다육",
+    "착생",
+    "행잉",
+    "덩굴",
+    "물적게",
+    "소형",
+    "반려동물주의"
+  ],
+  "beginnerScore": 3,
+  "emoji": "💚",
+  "base": {
+    "waterIntervalDays": 10,
+    "light": "반양지",
+    "minTempC": 15,
+    "humidity": "높음",
+    "toxicToPets": true
+  },
+  "stages": {
+    "seed": {
+      "durationDays": 21
+    },
+    "sprout": {
+      "durationDays": 60
+    },
+    "seedling": {
+      "durationDays": 365
+    },
+    "adult": {
+      "waterMultiplier": 1
+    }
+  },
+  "tasks": [
+    {
+      "kind": "fertilize",
+      "months": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "everyDays": 30,
+      "note": "나무에 붙어 살던 식물이라 뿌리가 가늘고 비료에 쉽게 상해요. 알갱이 비료 대신 물에 타는 액체 비료를 권장 농도의 절반으로 묽게, 한 달에 한 번만 줘요. 흙이 바싹 마른 상태에서 주면 뿌리가 타니 물을 한 번 준 뒤에 줘요."
+    },
+    {
+      "kind": "repot",
+      "months": [
+        4,
+        5
+      ],
+      "everyYears": 3,
+      "note": "일반 분갈이 흙에 심으면 뿌리가 숨을 못 쉬어요. 난 바크에 펄라이트를 섞고 수태를 조금 넣은, 손으로 쥐면 우수수 흩어지는 굵은 흙을 써요. 화분은 한 치수만 키우고, 뿌리가 꽉 찬 상태를 오히려 편해해요."
+    },
+    {
+      "kind": "prune",
+      "months": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "note": "너무 길어지거나 잎이 빠진 줄기만 잘라요. 자른 줄기는 마디 두세 개를 남겨 축축한 수태나 바크에 얹어 두면 뿌리가 나요. 잘린 자리에서 하얀 즙이 나오니 손에 묻으면 씻어요."
+    },
+    {
+      "kind": "winterize",
+      "months": [
+        11
+      ],
+      "note": "이 식물의 겨울 사고는 추위와 젖은 흙이 겹칠 때 나요. 15도 아래로 내려가는 베란다나 창가에서는 안쪽으로 들이고, 물 주는 간격은 이때부터 늘려요. 찬 유리에 잎이 닿아 있으면 그 잎만 까맣게 죽어요."
+    }
+  ],
+  "symptoms": [
+    {
+      "sign": "잎이 쭈글쭈글하게 주름졌어요",
+      "causes": [
+        "물 부족",
+        "뿌리 손상(과습 뒤)",
+        "흙이 너무 굵어 금방 마름"
+      ],
+      "action": "흙에 손가락을 넣어 보세요. 말라 있으면 배수구로 흘러나올 만큼 흠뻑 주면 며칠 안에 다시 통통해져요. 흙이 젖어 있는데도 주름졌다면 뿌리가 상한 거예요. 화분에서 꺼내 물러진 뿌리를 잘라내고 굵은 바크 흙에 다시 심어요. 잎이 작아 저장해 둔 물이 금방 바닥나니 주름을 보면 미루지 마세요."
+    },
+    {
+      "sign": "잎이 노랗게 물러지면서 떨어져요",
+      "causes": [
+        "과습",
+        "일반 분갈이 흙",
+        "배수구 없는 화분"
+      ],
+      "action": "물을 멈추고 흙을 만져 봐요. 며칠이 지나도 축축하면 흙이 문제예요. 난 바크와 펄라이트를 섞은 굵은 흙으로 갈아 주세요. 이 식물은 물이 모자라 죽는 일보다 많아서 죽는 일이 훨씬 흔해요. 받침에 고인 물은 바로 버려요."
+    },
+    {
+      "sign": "잎이 갑자기 후드득 떨어져요",
+      "causes": [
+        "찬바람이나 급한 온도 변화",
+        "자리를 옮김",
+        "흙을 완전히 말림"
+      ],
+      "action": "지금 있는 자리가 현관문이나 에어컨, 찬 유리창 근처인지 보세요. 그렇다면 온도가 일정한 안쪽으로 옮기고 한동안 그 자리에 두세요. 자리를 바꾼 직후라면 몇 주 적응 기간이 필요해요. 흙을 끝까지 말리는 습관이 있었다면 조금 앞당겨요."
+    },
+    {
+      "sign": "줄기만 길어지고 잎 사이가 멀어졌어요",
+      "causes": [
+        "빛 부족"
+      ],
+      "action": "창에 더 가까운 밝은 자리로 옮기되 직사광은 피해요. 레이스커튼 너머 정도가 좋고, 강한 볕에 두면 잎이 붉게 변하거나 타요. 이미 벌어진 줄기는 다시 촘촘해지지 않으니 잘라서 꽂으면 새 줄기가 촘촘하게 나와요."
+    },
+    {
+      "sign": "잎 사이사이에 하얀 솜 같은 게 붙어 있어요",
+      "causes": [
+        "가루깍지벌레",
+        "깍지벌레"
+      ],
+      "action": "잎이 촘촘해서 숨기 좋은 자리예요. 면봉에 알코올을 묻혀 하나씩 닦아내고, 줄기 안쪽까지 벌려서 확인해요. 심하면 줄기째 잘라내는 편이 빨라요. 며칠 뒤 다시 살펴 남은 것을 잡아요."
+    },
+    {
+      "sign": "잎이 까슬해지고 뒷면에 아주 작은 점이 보여요",
+      "causes": [
+        "응애",
+        "건조한 공기"
+      ],
+      "action": "잎 뒷면을 밝은 곳에서 살펴보세요. 먼지 같은 점이 움직이면 응애예요. 욕실로 옮겨 잎 뒷면까지 물로 씻어내고, 며칠 간격으로 두세 번 반복해요. 난방으로 공기가 마르는 겨울에 특히 잘 생기니 습도를 올리되 공기는 움직이게 해 주세요. 심하면 붙은 줄기를 잘라내는 편이 빨라요."
+    },
+    {
+      "sign": "잎에 갈색 반점이 생겼어요",
+      "causes": [
+        "통풍 없이 습하기만 한 자리",
+        "잎에 물이 고인 채로 밤을 보냄",
+        "강한 직사광"
+      ],
+      "action": "습도는 높되 공기는 움직여야 해요. 밀폐된 곳이라면 창을 조금 열거나 서큘레이터를 약하게 돌려요. 분무는 아침에만 하고 저녁에는 하지 않아요. 한여름 남향 창에 바싹 붙어 있었다면 한 걸음 뒤로 물려요."
+    }
+  ],
+  "source": [
+    "저술: 식물생태학 원리(plantcare-water 건조 3단계·계절 이동, plantcare-pot 기준 화분, plantcare-light 조도 구간, plantcare-killers 가역성 순위)",
+    "확인: NC State Extension Gardener Plant Toolbox, Dischidia ovata — 과 Apocynaceae, 'thrives in moist, well-drained, porous soils'(배합 조건이지 건조 단계 기술이 아님), 구조화 필드 Soil Drainage: Good Drainage, Moist, 'very sensitive to overwatering', 'bright, indirect light. Direct sunlight will scorch its leaves', 'thrives in shaded and humid conditions', 강한 볕에서 잎이 붉게 변함, 습도 60~80%, 생육 18~29℃, 급한 온도 변화·외풍 회피, USDA Hardiness Zone 10a~12b, 해충 mealybugs·spider mites·scale insects, 과습 시 뿌리썩음·습한 조건의 잎 반점·광 부족 시 웃자람·환경 스트레스 시 낙엽, Poison Severity: Low(개·고양이·어린이), Poison Part: Sap/Juice, Causes Contact Dermatitis: Yes, toxic principle unknown, 번식 줄기 삽목, 분갈이 2~3년 주기. ※ 구조화 필드 'Light: Partial Shade (Direct sunlight only part of the day, 2-6 hours)' 는 Toolbox 전 종이 공유하는 드롭다운 라벨이며(호야 페이지에도 같은 문자열) 이 종에 대한 권장이 아니다 — 종별 산문은 직사광 금지다. ※ 초안이 이 페이지 인용으로 적었던 '관수 사이 흙을 어느 정도 말림(dry somewhat between waterings)' 은 원문에 없는 문장이라 삭제했다. 그 문장은 같은 Toolbox 의 Hoya carnosa 페이지 것이다.",
+    "확인: RHS Plants, Dischidia(속) 및 Dischidia nummularia — Apocynaceae, '늘어지거나 감아 오르는 다육질 착생식물, 대부분 실내식물로 재배', 원산 중국·동남아시아~호주, 자생지에서 나무 줄기와 가지에 붙어 자람, 두껍고 하트형 또는 타원형 잎",
+    "확인: Kew Plants of the World Online / 속 분류 — Apocynaceae 협죽도과 Asclepiadoideae 아과, 착생, 다수 종이 수상 개미집과 함께 자라며 일부는 속이 빈 주머니 모양 잎(bullate leaf)으로 개미와 공생",
+    "확인(속 수준, 재배 3종 미확인): Winter K. 외, 「Crassulacean acid metabolism in Australian vascular epiphytes and some related species」, Oecologia 57, 1983 — Asclepiadaceae 중 잎이 두꺼운 Hoya·Dischidia 두 속에서 CAM 확인(측정 대상은 호주 자생종); Hsu 외, 「The relationship between CAM and leaf succulence in two epiphytic vines, Hoya carnosa and Dischidia formosana」, Photosynthetica 47, 2009 — 측정 종은 D. formosana. 우리가 다루는 ruscifolia·nummularia·ovata 의 CAM 은 직접 확인되지 않았다.",
+    "대조: NC State Extension Gardener Plant Toolbox, Hoya carnosa — 'Allow the soil to dry out between watering', 야간 10℃(50°F) 아래로 떨어지면 실내로 들일 것, 광 필드는 디시디아와 동일한 드롭다운 문자열",
+    "대조: ASPCA Toxic and Non-Toxic Plants — Dischidia 속 미등재(독성·무독성 어느 쪽으로도 확인 불가)",
+    "대조: 코퍼스 내 호야(hoya-carnosa)·립살리스(rhipsalis) — 같은 아과 또는 같은 착생 다육 습성으로 관수 단계와 월동 기준의 상대 위치를 잡는 데 사용",
+    "대조: sikjipsa-client GrowthFactors.ts DEFAULT_GROWTH_FACTORS(season 폴백 곡선, stageDurationDays 14/30/180, stage seedling 0.8), WateringSchedule.ts interval() 계산 순서"
+  ]
+}

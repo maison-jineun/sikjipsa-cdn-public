@@ -19,8 +19,7 @@
     "waterIntervalDays": 21,
     "light": "반양지",
     "minTempC": 13,
-    "toxicToPets": true,
-    "soilEvaporationShare": 0.7
+    "toxicToPets": true
   },
   "season": [
     1.4,

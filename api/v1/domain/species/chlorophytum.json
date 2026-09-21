@@ -14,7 +14,6 @@
   ],
   "tags": [
     "관엽",
-    "공기정화",
     "반려동물안전",
     "초보추천",
     "행잉"
@@ -24,16 +23,8 @@
   "base": {
     "waterIntervalDays": 8,
     "light": "반양지",
-    "lightLux": [
-      800,
-      10000
-    ],
     "minTempC": 10,
     "humidity": "보통",
-    "humidityPct": [
-      40,
-      70
-    ],
     "toxicToPets": false
   },
   "season": [

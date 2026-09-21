@@ -326,6 +326,65 @@
         "pilea-peperomioides",
         "syngonium"
       ]
+    },
+    {
+      "id": "2026-10-05-haworthia-autumn-feed",
+      "title": "하월시아는 지금 영양제를 다시 줘요",
+      "body": "여름내 쉬던 하월시아가 서늘해지면 다시 자라요. 가을에 주는 달은 9월과 10월뿐이라, 이번 달에 묽게 한 번 주고 11월부터는 멈춰요.",
+      "postedOn": "2026-10-05",
+      "contentPath": "static/content/tips/2026-10-05-haworthia-autumn-feed.html",
+      "speciesKeys": [
+        "haworthia"
+      ]
+    },
+    {
+      "id": "2026-10-05-alocasia-last-feed-if-growing",
+      "title": "알로카시아 영양제는 새 잎을 보고 줘요",
+      "body": "10월이 마지막 달이에요. 새 잎이 아직 올라오고 있다면 이번 달에 묽게 한 번 주고, 잎이 멈췄거나 아래 잎이 지고 있으면 그대로 쉬게 둬요.",
+      "postedOn": "2026-10-05",
+      "contentPath": "static/content/tips/2026-10-05-alocasia-last-feed-if-growing.html",
+      "speciesKeys": [
+        "alocasia"
+      ]
+    },
+    {
+      "id": "2026-10-05-phalaenopsis-last-feed",
+      "title": "호접란 영양제는 이번 달까지예요",
+      "body": "심는 재료에 양분이 거의 없어서 자라는 동안 조금씩 챙겨요. 10월이 마지막이라 이번 달 한 번은 권장 농도의 1/4~1/2로 묽게 주고, 겨울엔 영양제만 쉬어요.",
+      "postedOn": "2026-10-05",
+      "contentPath": "static/content/tips/2026-10-05-phalaenopsis-last-feed.html",
+      "speciesKeys": [
+        "phalaenopsis"
+      ]
+    },
+    {
+      "id": "2026-10-12-cold-sensitive-first",
+      "title": "추위에 제일 약한 셋을 먼저 들여요",
+      "body": "칼라데아·마란타·아글라오네마는 밤에 16도 아래로 내려가는 창가에서 하룻밤 냉기에도 잎이 상해요. 집에 있는 창가 화분 중 이 셋을 가장 먼저, 오늘 안쪽으로 들여 주세요.",
+      "postedOn": "2026-10-12",
+      "speciesKeys": [
+        "calathea",
+        "maranta",
+        "aglaonema"
+      ]
+    },
+    {
+      "id": "2026-10-12-phalaenopsis-cool-nights",
+      "title": "호접란은 서늘한 밤보다 유리 냉기가 문제예요",
+      "body": "밤에 15도 아래로 내려가는 창가라면 안쪽으로 들여 주세요. 서늘한 밤 자체는 꽃대를 부르는 신호라, 문제는 서늘함이 아니라 유리에 닿는 냉기예요. 창가에 둔다면 화분을 유리에서 한 뼘 떼어 주세요.",
+      "postedOn": "2026-10-12",
+      "speciesKeys": [
+        "phalaenopsis"
+      ]
+    },
+    {
+      "id": "2026-10-12-rosemary-cool-bright-spot",
+      "title": "로즈마리는 따뜻한 자리가 답이 아니에요",
+      "body": "밖에 두었다면 서리가 내리기 전에 들여 주세요. 다만 난방기 옆 따뜻하고 답답한 자리는 오히려 나빠요. 집에서 가장 밝은 창가 중에서도 서늘하고 바람이 도는 자리로 골라 주세요.",
+      "postedOn": "2026-10-12",
+      "speciesKeys": [
+        "rosemary"
+      ]
     }
   ]
 }

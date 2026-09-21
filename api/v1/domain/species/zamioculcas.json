@@ -10,7 +10,7 @@
     "관엽",
     "물적게",
     "저광내성",
-    "초보"
+    "초보추천"
   ],
   "beginnerScore": 4,
   "emoji": "🪴",
@@ -19,8 +19,7 @@
     "light": "반양지",
     "minTempC": 13,
     "humidity": "낮음",
-    "toxicToPets": true,
-    "soilEvaporationShare": 0.7
+    "toxicToPets": true
   },
   "season": [
     1.4,

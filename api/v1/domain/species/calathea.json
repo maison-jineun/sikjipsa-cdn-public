@@ -16,8 +16,9 @@
   "tags": [
     "관엽",
     "물좋아함",
-    "저광",
-    "습도높음",
+    "저광내성",
+    "고습도",
+    "추위주의",
     "반려동물안전",
     "무늬잎"
   ],
@@ -26,6 +27,7 @@
   "base": {
     "waterIntervalDays": 5,
     "light": "반음지",
+    "humidity": "높음",
     "minTempC": 16,
     "toxicToPets": false
   },
@@ -39,24 +41,10 @@
     1,
     1,
     1,
-    1,
     1.2,
+    1.4,
     1.4
   ],
-  "stages": {
-    "seed": {
-      "durationDays": 21
-    },
-    "sprout": {
-      "durationDays": 45
-    },
-    "seedling": {
-      "durationDays": 180
-    },
-    "adult": {
-      "waterMultiplier": 1
-    }
-  },
   "tasks": [
     {
       "kind": "fertilize",
@@ -68,7 +56,7 @@
         8,
         9
       ],
-      "note": "권장량의 절반으로 묽게 줘요. 이 식물은 흙에 쌓인 염류가 잎 끝부터 태워서, 비료를 넉넉히 주는 게 오히려 손해예요. 겨울에는 주지 않아요."
+      "note": "생육기에는 2~4주에 한 번, 권장량의 절반으로 묽게 줘요. 이 식물은 흙에 쌓인 염류가 잎 끝부터 태워서, 비료를 넉넉히 주는 게 오히려 손해예요. 겨울에는 주지 않아요."
     },
     {
       "kind": "repot",
@@ -167,10 +155,11 @@
   ],
   "source": [
     "저술: 식물생태학 원리(plantcare-water 건조 3단계 척도와 겨울 한 단계 이동, plantcare-light 창에서의 거리 기준, plantcare-pot 기준 화분·배수구·계수는 base 바깥, plantcare-killers 가역성 순위·과습 오진 기전·분갈이 신호)",
-    "대조: ASPCA 반려동물 독성식물 목록 — Calathea Lancifolia 무독 분류 [확인됨]",
-    "대조: 월동 하한 16℃ — RHS 재배 가이드 'Keep plants at 16–21°C (61–70°F) and avoid temperature fluctuations' [확인됨]",
+    "대조: ASPCA 반려동물 독성식물 목록 — Calathea 속 무독 분류 [확인됨]",
+    "대조: 월동 하한 16℃ — RHS 재배 가이드의 권장 온도 범위 하한 [확인됨]",
     "대조: 마란타과의 잎끝 염류 장해 기전 — 증산으로 잎 가장자리에 용질이 농축되어 세포가 죽는다는 대학 Extension 설명 [추정]",
     "대조: 국내 수돗물 불소화 미시행 — 해외 자료의 '불소' 지목을 그대로 옮기지 않고 염소·미네랄로 다시 씀",
-    "대조: 같은 데이터셋 스파티필럼 확정본 — 냉해 분기 구조, base 축소 범위, everyDays/everyYears 삭제 선례"
+    "대조: 같은 데이터셋의 반음지·1단계 관엽 7종(스파티필럼·아글라오네마·네프롤레피스·하월리아야자·관음죽·테이블야자·싱고니움) 확정본 — season 배열과 base 축소 범위의 선례",
+    "대조: 앱 소비 코드(GrowthFactors 기본 season 표, WateringSchedule.dueOf 의 everyDays 부재 시 동작, Humidity 타입) — 리뷰 지적으로 확인"
   ]
 }
