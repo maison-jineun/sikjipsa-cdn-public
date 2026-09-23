@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "4f058bb47279",
+  "dataVersion": "b92ba0638467",
   "species": [
     {
       "key": "adiantum",
@@ -472,6 +472,7 @@
       "beginnerScore": 4,
       "emoji": "🌴",
       "light": "반양지",
+      "minLight": "반음지",
       "waterIntervalDays": 10,
       "toxicToPets": true
     },
@@ -1281,6 +1282,7 @@
       "beginnerScore": 5,
       "emoji": "🌿",
       "light": "반양지",
+      "minLight": "반음지",
       "waterIntervalDays": 9,
       "toxicToPets": true
     },
@@ -1448,6 +1450,7 @@
       "beginnerScore": 4,
       "emoji": "🪴",
       "light": "반양지",
+      "minLight": "반음지",
       "waterIntervalDays": 21,
       "toxicToPets": true
     },
@@ -1481,6 +1484,7 @@
       "beginnerScore": 4,
       "emoji": "🌳",
       "light": "반양지",
+      "minLight": "반음지",
       "waterIntervalDays": 7,
       "toxicToPets": true
     },
@@ -1617,6 +1621,7 @@
       "beginnerScore": 4,
       "emoji": "🌿",
       "light": "반양지",
+      "minLight": "반음지",
       "waterIntervalDays": 7,
       "toxicToPets": true
     },
@@ -1647,6 +1652,7 @@
       "beginnerScore": 4,
       "emoji": "🌴",
       "light": "반양지",
+      "minLight": "반음지",
       "waterIntervalDays": 7,
       "toxicToPets": true
     },
@@ -1700,6 +1706,7 @@
       "beginnerScore": 4,
       "emoji": "🪴",
       "light": "반양지",
+      "minLight": "반음지",
       "waterIntervalDays": 21,
       "toxicToPets": true
     }

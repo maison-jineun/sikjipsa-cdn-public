@@ -29,6 +29,7 @@
   "base": {
     "waterIntervalDays": 10,
     "light": "반양지",
+    "minLight": "반음지",
     "minTempC": 12,
     "humidity": "보통",
     "toxicToPets": true
