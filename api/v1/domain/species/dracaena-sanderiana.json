@@ -16,6 +16,10 @@
     "초보추천",
     "반려동물주의"
   ],
+  "searchTerms": [
+    "관엽식물",
+    "수경식물"
+  ],
   "beginnerScore": 5,
   "emoji": "🎋",
   "base": {

@@ -20,11 +20,17 @@
     "초보추천",
     "반려동물주의"
   ],
+  "searchTerms": [
+    "관엽식물",
+    "넝쿨식물",
+    "덩굴식물"
+  ],
   "beginnerScore": 5,
   "emoji": "🌿",
   "base": {
     "waterIntervalDays": 9,
     "light": "반양지",
+    "minLight": "반음지",
     "minTempC": 13,
     "humidity": "보통",
     "toxicToPets": true

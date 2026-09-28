@@ -20,11 +20,16 @@
     "큰식물",
     "반려동물주의"
   ],
+  "searchTerms": [
+    "관엽식물",
+    "공기정화식물"
+  ],
   "beginnerScore": 4,
   "emoji": "🌴",
   "base": {
     "waterIntervalDays": 10,
     "light": "반양지",
+    "minLight": "반음지",
     "minTempC": 12,
     "humidity": "보통",
     "toxicToPets": true

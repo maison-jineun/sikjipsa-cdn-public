@@ -19,11 +19,16 @@
     "초보추천",
     "반려동물주의"
   ],
+  "searchTerms": [
+    "다육식물",
+    "다육이"
+  ],
   "beginnerScore": 4,
   "emoji": "🪴",
   "base": {
     "waterIntervalDays": 21,
     "light": "반양지",
+    "minLight": "반음지",
     "minTempC": 13,
     "toxicToPets": true
   },

@@ -12,11 +12,15 @@
     "저광내성",
     "초보추천"
   ],
+  "searchTerms": [
+    "관엽식물"
+  ],
   "beginnerScore": 4,
   "emoji": "🪴",
   "base": {
     "waterIntervalDays": 21,
     "light": "반양지",
+    "minLight": "반음지",
     "minTempC": 13,
     "humidity": "낮음",
     "toxicToPets": true

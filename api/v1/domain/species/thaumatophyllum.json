@@ -19,11 +19,15 @@
     "저광내성",
     "반려동물주의"
   ],
+  "searchTerms": [
+    "관엽식물"
+  ],
   "beginnerScore": 4,
   "emoji": "🌴",
   "base": {
     "waterIntervalDays": 7,
     "light": "반양지",
+    "minLight": "반음지",
     "minTempC": 13,
     "humidity": "보통",
     "toxicToPets": true
