@@ -82,12 +82,12 @@
       "postedOn": "2026-09-22"
     },
     {
-      "id": "2026.09.24-release-0-9-0",
+      "id": "2026.09.28-release-0-9-0",
       "category": "release",
       "title": "[업데이트] 화분 사진을 바로 찍어서 달 수 있어요",
       "body": "화분 사진을 그 자리에서 찍어 달 수 있고, 이름을 몰라도 '다육식물', '선인장' 같은 말로 식물을 찾을 수 있어요.",
-      "contentPath": "static/content/notice/2026.09.24-release-0-9-0.html",
-      "postedOn": "2026-09-24"
+      "contentPath": "static/content/notice/2026.09.28-release-0-9-0.html",
+      "postedOn": "2026-09-28"
     }
   ]
 }
