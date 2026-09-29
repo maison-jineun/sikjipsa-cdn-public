@@ -88,6 +88,14 @@
       "body": "화분 사진을 그 자리에서 찍어 달 수 있고, 이름을 몰라도 '다육식물', '선인장' 같은 말로 식물을 찾을 수 있어요.",
       "contentPath": "static/content/notice/2026.09.28-release-0-9-0.html",
       "postedOn": "2026-09-28"
+    },
+    {
+      "id": "2026.09.29-release-0-10-0",
+      "category": "release",
+      "title": "[업데이트] 화분마다 사진 일기가 생겼어요",
+      "body": "기록할 때 사진을 다섯 장까지 붙일 수 있고, 화분 상세 맨 위에 그 화분의 사진이 날짜와 함께 쌓여요.",
+      "contentPath": "static/content/notice/2026.09.29-release-0-10-0.html",
+      "postedOn": "2026-09-29"
     }
   ]
 }
