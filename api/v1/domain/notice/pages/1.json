@@ -96,6 +96,14 @@
       "body": "기록할 때 사진을 다섯 장까지 붙일 수 있고, 화분 상세 맨 위에 그 화분의 사진이 날짜와 함께 쌓여요.",
       "contentPath": "static/content/notice/2026.09.29-release-0-10-0.html",
       "postedOn": "2026-09-29"
+    },
+    {
+      "id": "2026.09.30-species-69",
+      "category": "catalog",
+      "title": "[식물 정보] 식물 10가지가 더 들어왔어요",
+      "body": "엽란, 수박페페, 피토니아처럼 창에서 먼 자리에도 둘 수 있는 식물과 하트호야, 박쥐란처럼 반려동물 곁에 두기 좋은 식물을 담았어요. 이제 69가지 중에서 고를 수 있어요.",
+      "contentPath": "static/content/notice/2026.09.30-species-69.html",
+      "postedOn": "2026-09-30"
     }
   ]
 }

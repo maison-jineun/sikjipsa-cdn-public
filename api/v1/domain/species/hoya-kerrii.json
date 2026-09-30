@@ -1,0 +1,158 @@
+{
+  "key": "hoya-kerrii",
+  "name": "하트호야",
+  "aliases": [
+    "하트 호야",
+    "호야 케리",
+    "호야케리",
+    "호야 캐리",
+    "호야캐리",
+    "케리호야",
+    "러브하트",
+    "러브하트호야",
+    "하트선인장",
+    "하트다육이",
+    "무늬하트호야",
+    "sweetheart hoya",
+    "valentine hoya",
+    "hoya kerrii"
+  ],
+  "tags": [
+    "다육",
+    "착생",
+    "덩굴",
+    "물적게",
+    "반려동물안전"
+  ],
+  "searchTerms": [
+    "다육식물",
+    "다육이",
+    "관엽식물",
+    "넝쿨식물",
+    "덩굴식물"
+  ],
+  "beginnerScore": 3,
+  "emoji": "💚",
+  "base": {
+    "waterIntervalDays": 14,
+    "light": "반양지",
+    "minTempC": 15,
+    "humidity": "보통",
+    "toxicToPets": false
+  },
+  "season": [
+    1.43,
+    1.43,
+    1.43,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1.43,
+    1.43
+  ],
+  "tasks": [
+    {
+      "kind": "fertilize",
+      "months": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "everyDays": 30,
+      "note": "자라는 봄·여름에 물에 타는 비료를 권장 농도의 절반 이하로 묽게 해서 한 달에 한 번이면 충분해요. 잎 한 장만 꽂힌 화분은 새로 자랄 곳이 없으니 비료는 건너뛰어요."
+    },
+    {
+      "kind": "repot",
+      "months": [
+        4,
+        5
+      ],
+      "note": "천천히 자라는 식물이라 화분이 좀 꽉 끼는 편이 오히려 안전해요. 배수구로 뿌리가 나오거나 물이 예전보다 훨씬 빨리 마를 때만 한 치수 키우고, 바크나 펄라이트를 섞어 물이 잘 빠지는 흙을 써요."
+    },
+    {
+      "kind": "winterize",
+      "months": [
+        10,
+        11
+      ],
+      "note": "15도 아래로 내려가는 창가나 베란다라면 안쪽으로 들여요. 겨울에는 흙이 거의 다 마른 뒤에만 주고, 찬물 대신 실온에 둔 물을 써요."
+    }
+  ],
+  "symptoms": [
+    {
+      "sign": "하트 잎 하나가 몇 달째 그대로예요, 새 잎이 안 나요",
+      "causes": [
+        "줄기 마디 없이 잎만 꽂은 화분",
+        "빛 부족",
+        "원래 느리게 자라는 식물"
+      ],
+      "action": "잎자루만 흙에 꽂혀 있고 줄기가 안 보이면 새 잎이 나올 자리가 없는 화분이에요. 병든 게 아니니 지금처럼 가끔 물만 주며 두세요. 덩굴로 키우고 싶다면 마디가 붙은 줄기 화분을 새로 들여요. 줄기가 있는데도 안 자라면 창에 더 가까운 밝은 자리로 옮겨요."
+    },
+    {
+      "sign": "잎이 쭈글쭈글하고 얇아졌어요",
+      "causes": [
+        "물 부족",
+        "과습으로 뿌리가 상함"
+      ],
+      "action": "먼저 흙에 손가락을 넣어 봐요. 바짝 말라 있으면 배수구로 흘러나올 만큼 흠뻑 주면 며칠 안에 다시 도톰해져요. 흙이 젖어 있는데도 쭈글하면 뿌리가 상한 거라 물을 더 주면 안 돼요. 화분에서 꺼내 물러진 뿌리를 잘라내고 마른 흙에 다시 심어요."
+    },
+    {
+      "sign": "잎 아래쪽이 노랗게 변하고 물렁해요",
+      "causes": [
+        "과습",
+        "물이 안 빠지는 흙이나 화분",
+        "추운 날 흙이 오래 젖어 있음"
+      ],
+      "action": "바로 물을 멈추고 받침에 고인 물을 버려요. 흙에 닿은 부분이 검게 물렀으면 꺼내서 무른 곳을 잘라내고 하루 이틀 말린 뒤, 바크나 펄라이트를 섞은 마른 흙에 다시 꽂아요. 잎 전체가 물렀다면 살리기 어려워요."
+    },
+    {
+      "sign": "잎이 누렇게 바래거나 갈색으로 탔어요",
+      "causes": [
+        "한낮의 강한 직사광",
+        "어두운 곳에 있다가 갑자기 밝은 곳으로 옮김"
+      ],
+      "action": "창에서 한두 걸음 물러나거나 얇은 커튼 너머로 옮겨요. 밝은 창가로 옮길 때는 며칠에 걸쳐 조금씩 가까이 가져가요. 탄 자국은 돌아오지 않지만 새 잎은 괜찮아요."
+    },
+    {
+      "sign": "잎 사이에 하얀 솜 같은 게 붙어 있어요",
+      "causes": [
+        "가루깍지벌레"
+      ],
+      "action": "알코올을 묻힌 면봉으로 하나씩 닦아내고, 다른 화분과 떨어뜨려 둬요. 잎이 두꺼워서 물로 씻어내도 잘 버티니 샤워기로 헹군 뒤 일주일쯤 뒤에 다시 살펴요."
+    },
+    {
+      "sign": "잎 뒷면에 거미줄 같은 게 보이고 잎에 잔 점이 생겨요",
+      "causes": [
+        "응애"
+      ],
+      "action": "잎 앞뒤를 물로 씻어내고 며칠 간격으로 두세 번 반복해요. 건조하고 바람이 안 통하는 자리에서 잘 생기니 자리도 한번 바꿔 봐요."
+    },
+    {
+      "sign": "꽃에서 끈적한 물이 떨어져요",
+      "causes": [
+        "정상적인 꽃꿀"
+      ],
+      "action": "병이 아니에요. 꽃이 꿀을 많이 흘려서 바닥이나 가구에 얼룩이 질 수 있으니 꽃이 핀 동안 아래에 뭔가 깔아 두세요."
+    }
+  ],
+  "source": [
+    "저술: 식물생태학 원리(plantcare-water 건조 3단계·계절 이동, plantcare-pot 기준 화분, plantcare-light 조도 구간, plantcare-killers 가역성 순위)",
+    "확인: NC State Extension Gardener Plant Toolbox, Hoya kerrii — 협죽도과 착생 덩굴, 원산 Indo-China~Malesia, 본문 '관수 사이 흙을 어느 정도 말림(dry somewhat)', 배수 필수, 과습 시 뿌리썩음·개화 저해, 너무 말리면 잎이 얇아지고 갈색·주름, 실온 물 사용(찬물은 쇼크), 적온 65~80℉(18~27℃)·저온에서 생장·개화 둔화, 습한 방이 도움, 광 필드 Dappled Sunlight, 생장 속도 느림, 줄기 조직 없는 잎꽂이는 잘 자라지 않음, 밤 향기·적갈색 꿀 다량, 어릴 때 개화 늦음, 품종 'Variegata'(가장자리 크림색), 해충 진딧물·응애·가루깍지벌레, 개·고양이·말 무독. 태그 #dry soils tolerant #wet soils intolerant #succulent #humidity tolerant #epiphytic. USDA 내한 구역은 페이지에 없음",
+    "확인: NC State Extension Gardener Plant Toolbox, Hoya(속) — 관수 사이 마르는 배수 좋은 유기질 배합, 젖은 뿌리 불내, 밝은 빛·산광·아침 직사광(종일 직사 불필요), 뿌리가 꽉 차지 않은 화분은 물을 과하게 머금어 뿌리썩음, 줄기 삽목 번식",
+    "확인: Iowa State University Extension Yard and Garden, All About Hoyas (속, 2026-02 검토) — 'allow the mix to dry almost completely before watering again', 'do not tolerate temperatures below 55°F(≈12.8℃), cool locations near windows in winter should be avoided', 습도 40~60% 일반 실내에 적응, 'Light, regular fertilizer applications in spring and summer… at 1/2 or 1/4 strength', 겨울 비료 금지. Hoya kerrii 는 줄기 마디 없는 잎 한 장으로 흔히 팔리며 평생 새 생장 없이 그대로 머문다고 명시",
+    "확인: ASPCA Toxic and Non-Toxic Plants, Sweetheart Hoya(Hoya kerrii) — Non-Toxic to Dogs, Cats, Horses. 별칭 wax hearts, valentine hoya",
+    "확인: 기상청 기후평년값(1991~2020) 서울 월평균 최저기온 — 9월 17.7℃, 10월 10.6℃, 11월 3.5℃",
+    "대조: Clemson HGIC, Indoor Plants – Waxflowers (Hoya) — 속 일반: 관수 사이 흙을 완전히 말리고 무게로 판단, 남향 창은 적응 필요, 광 부족 시 개화·무늬 감소, 흙 배합 분갈이흙:난바크:펄라이트 1:1:1. Sweetheart Hoya 는 큰 하트 잎·밸런타인데이 유통으로만 언급",
+    "대조: 농사로 실내식물 DB 호야(Hoya carnosa, cntntsNo=12986) — 같은 속. 봄·여름·가을 '토양 표면이 말랐을때', 겨울 '화분 흙 대부분 말랐을때', 겨울최저온도 13℃. 하트호야(H. kerrii) 는 농사로 미등재",
+    "대조: Wikipedia, Hoya kerrii — 원산 중국 남부·인도차이나·자바, 잎 두께 약 5mm, lucky-heart 이름과 밸런타인데이 유통",
+    "대조: 코퍼스 내 호야(hoya-carnosa)·디시디아(dischidia)·립살리스(rhipsalis)·하월시아(haworthia)·에케베리아(echeveria)·칼랑코에(kalanchoe)·쿠리오(curio-rowleyanus) — 관수 앵커와 겨울 실효 간격의 상대 위치를 잡는 데 사용",
+    "대조(별명 수집만): 국내 판매처 상품명(xplant '하트호야 하트선인장 호야케리 호야캐리', idus '하트다육이 하트호야', botanicaly '하트호야(러브하트)') — 사실 근거로 쓰지 않음",
+    "인용 금지: lifetips.alibaba.com 의 'UF IFAS 2019–2023 시험, 잎 한 장 412개체' 수치 — 상업 블로그이고 원 보고서를 찾을 수 없음"
+  ]
+}

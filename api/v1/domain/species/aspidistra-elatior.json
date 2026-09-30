@@ -1,0 +1,152 @@
+{
+  "key": "aspidistra-elatior",
+  "name": "엽란",
+  "aliases": [
+    "무늬엽란",
+    "아스피디스트라",
+    "cast iron plant",
+    "aspidistra"
+  ],
+  "tags": [
+    "관엽",
+    "저광내성",
+    "반려동물안전",
+    "초보추천"
+  ],
+  "searchTerms": [
+    "관엽식물"
+  ],
+  "beginnerScore": 4,
+  "emoji": "🪴",
+  "base": {
+    "waterIntervalDays": 10,
+    "light": "반음지",
+    "minLight": "음지",
+    "minTempC": 10,
+    "humidity": "보통",
+    "toxicToPets": false
+  },
+  "season": [
+    1.43,
+    1.43,
+    1.43,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1,
+    1.43,
+    1.43
+  ],
+  "tasks": [
+    {
+      "kind": "fertilize",
+      "months": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ],
+      "everyDays": 60,
+      "note": "봄부터 초가을까지 두 달에 한 번 비료를 줘요. 양은 권장량보다 묽게 해요. 엽란은 느리게 자라서 비료를 많이 줘도 빨리 크지 않아요. 남은 비료는 흙에 쌓여서 잎 끝을 태워요."
+    },
+    {
+      "kind": "repot",
+      "months": [
+        4,
+        5
+      ],
+      "note": "분갈이는 해마다 할 일이 아니에요. 뿌리줄기가 화분 가장자리까지 꽉 차서 새 잎이 나올 자리가 없을 때 옮겨요. 물이 예전보다 훨씬 빨리 마를 때도 옮길 때예요. 이때 포기를 나눠서 두 화분으로 만들 수도 있어요."
+    },
+    {
+      "kind": "winterize",
+      "months": [
+        10,
+        11
+      ],
+      "note": "밤 기온이 10도 아래로 내려가기 시작하면 창가에서 한두 걸음 안쪽으로 옮겨요. 화분은 겨울 내내 실내에 둬요. 찬 유리에 닿은 잎부터 상하고, 추위에 상한 잎은 돌아오지 않아요."
+    }
+  ],
+  "symptoms": [
+    {
+      "sign": "잎이 노래지고 밑동이 물러져요",
+      "causes": [
+        "과습",
+        "받침에 고인 물",
+        "어두운 자리에서 물을 자주 줌"
+      ],
+      "action": "물을 멈추고 흙을 손가락 두 마디 깊이까지 만져 봐요. 젖어 있으면 받침 물을 버리고, 흙이 대부분 마를 때까지 기다려요. 잎자루 밑동을 눌러 봐서 물컹하면 화분에서 꺼내요. 검고 무른 뿌리줄기는 잘라내고 새 흙에 심어요."
+    },
+    {
+      "sign": "잎 끝이 갈색으로 타요",
+      "causes": [
+        "흙이 오래 젖어 있음",
+        "흙이 바짝 마른 채 오래 둠",
+        "비료가 진함",
+        "히터나 에어컨 바람"
+      ],
+      "action": "먼저 흙을 만져서 젖었는지 말랐는지부터 봐요. 원인에 맞게 물 주는 간격을 고쳐요. 최근에 비료를 줬다면 한동안 쉬어요. 탄 부분은 돌아오지 않으니 잎 모양을 따라 가위로 다듬어요."
+    },
+    {
+      "sign": "잎에 하얗거나 누렇게 바랜 자국이 생겨요",
+      "causes": [
+        "직사광선"
+      ],
+      "action": "햇빛이 직접 닿지 않는 자리로 옮겨요. 바랜 자국은 그대로 남지만 새로 나오는 잎은 멀쩡해요."
+    },
+    {
+      "sign": "겨울에 창가 쪽 잎에 갈색이나 검은 얼룩이 번져요",
+      "causes": [
+        "밤에 창가 냉기",
+        "찬 유리에 잎이 닿음",
+        "찬 바람이 드는 자리"
+      ],
+      "action": "창에서 떼어 안쪽으로 옮겨요. 상한 잎은 회복되지 않아요. 다 마른 뒤 잎자루째 밑동에서 잘라요. 추위를 탄 뒤에는 물을 늘리지 말아요. 찬 흙에서는 뿌리가 물을 잘 못 먹어요."
+    },
+    {
+      "sign": "잎이 뿌옇게 바래고 뒷면에 잔 점이나 거미줄이 보여요",
+      "causes": [
+        "응애",
+        "건조하고 바람이 안 통하는 자리"
+      ],
+      "action": "잎 앞뒤를 물로 씻어내고, 며칠 간격으로 몇 번 되풀이해요. 옆 화분으로 번지기 쉬우니 따로 떼어 두고 살펴요."
+    },
+    {
+      "sign": "잎이나 잎자루에 갈색 딱지가 붙고 주변이 끈적여요",
+      "causes": [
+        "깍지벌레"
+      ],
+      "action": "면봉이나 부드러운 솔로 하나씩 떼어내요. 끈적한 자리도 닦아요. 그대로 두면 그 위에 검은 곰팡이가 앉아요."
+    },
+    {
+      "sign": "무늬엽란의 흰 줄무늬가 흐려지고 초록 잎만 나와요",
+      "causes": [
+        "빛이 너무 어두움"
+      ],
+      "action": "직사광선이 들지 않는 선에서 조금 더 밝은 자리로 옮겨요. 이미 초록으로 나온 잎은 돌아오지 않아요. 새 잎부터 달라져요."
+    },
+    {
+      "sign": "몇 달째 새 잎이 안 나와요",
+      "causes": [
+        "원래 아주 느림",
+        "겨울 휴면",
+        "빛 부족"
+      ],
+      "action": "엽란은 한 해에 잎이 몇 장만 나와도 정상이에요. 새 잎은 흙에서 곧바로 말린 채 올라오니 밑동 쪽을 봐요. 봄이 지나도 새 잎이 없으면 조금 더 밝은 자리로 옮겨요."
+    }
+  ],
+  "source": [
+    "저술: 식물생태학 원리(plantcare-water 건조 3단계 척도와 계절 이동, plantcare-light 광 구간, plantcare-pot 화분 기준, plantcare-killers 가역성 순위)",
+    "1차: 농촌진흥청 농사로 실내식물 — 엽란(cntntsNo=18591): 봄·여름·가을 2단계(표면 마름) / 겨울 3단계(대부분 마름), 광요구도 낮은·중간·높은 광도 전 구간, 겨울최저온도 5℃, 습도 40~70%, 관리수준 초보자, 비료 요구 보통, 번식 분주, 병해충 응애·깍지벌레, 영명 iron plant·cast iron plant (https://www.nongsaro.go.kr/portal/ps/psz/psza/contentSub.ps?menuId=PS00376&cntntsNo=18591)",
+    "대조: Missouri Botanical Garden Plant Finder — Zone 8~10, 밝은 간접광이 가장 좋고 완전한 그늘도 견딤, 직사광에 잎이 바램, Tolerate: Drought, 'will tolerate less than regular watering', 봄~가을 규칙 관수·겨울 감량, 겨울 최저 50°F, 과습 시 뿌리썩음, 응애·깍지벌레, 실내에서는 꽃이 드묾, 잎 세척 권장 (https://plantfinder.mobot.org/PlantFinderDetails.aspx?taxonid=282290)",
+    "대조: NC State Extension Plant Toolbox — USDA 7a~11b, 짙은 그늘 선호·직사광 불내성, 겨울 관수 감량, drought tolerant, 느린 생장 (https://plants.ces.ncsu.edu/plants/aspidistra-elatior/)",
+    "대조: RHS How to grow aspidistras — 적정 온도 5~20℃, 아주 어두운 빛에서 무늬 잎이 초록으로 돌아감, 포기나누기 시 조각마다 'several leaves' (https://www.rhs.org.uk/plants/aspidistra/how-to-grow-aspidistras)",
+    "대조: ASPCA 독성/무독성 식물 목록 — Cast Iron Plant 개·고양이·말 무독성 (https://www.aspca.org/pet-care/animal-poison-control/toxic-and-non-toxic-plants/cast-iron-plant)",
+    "선례: species/rhapis.json — 같은 농사로 단계 패턴(2→3)의 season 규약, minTempC 를 경고 임계로 읽는 해석, prune 을 tasks 에 두지 않는 규약",
+    "선례: species/dracaena-fragrans.json·pachira.json — 저장 기관 기전을 버리고 '2단계 앵커 7일 + 안전여유 3일 [우리 판단]' 으로 10을 세운 서술 규약"
+  ]
+}

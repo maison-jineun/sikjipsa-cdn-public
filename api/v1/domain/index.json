@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "dataVersion": "7de3c543ff75",
+  "dataVersion": "931045d32f6f",
   "species": [
     {
       "key": "adiantum",
@@ -94,6 +94,30 @@
       "toxicToPets": true
     },
     {
+      "key": "aloe-vera",
+      "name": "알로에 베라",
+      "aliases": [
+        "알로에",
+        "알로에베라"
+      ],
+      "searchTerms": [
+        "다육식물",
+        "다육이"
+      ],
+      "tags": [
+        "다육",
+        "물적게",
+        "햇빛많이",
+        "반려동물주의",
+        "초보추천"
+      ],
+      "beginnerScore": 4,
+      "emoji": "🪴",
+      "light": "양지",
+      "waterIntervalDays": 14,
+      "toxicToPets": true
+    },
+    {
       "key": "anthurium",
       "name": "안스리움",
       "aliases": [
@@ -143,6 +167,56 @@
       "light": "반양지",
       "waterIntervalDays": 10,
       "toxicToPets": true
+    },
+    {
+      "key": "aspidistra-elatior",
+      "name": "엽란",
+      "aliases": [
+        "무늬엽란",
+        "아스피디스트라",
+        "cast iron plant",
+        "aspidistra"
+      ],
+      "searchTerms": [
+        "관엽식물"
+      ],
+      "tags": [
+        "관엽",
+        "저광내성",
+        "반려동물안전",
+        "초보추천"
+      ],
+      "beginnerScore": 4,
+      "emoji": "🪴",
+      "light": "반음지",
+      "minLight": "음지",
+      "waterIntervalDays": 10,
+      "toxicToPets": false
+    },
+    {
+      "key": "asplenium-nidus",
+      "name": "아비스",
+      "aliases": [
+        "아비스고사리",
+        "아비스 고사리",
+        "새둥지고사리",
+        "새둥지 고사리",
+        "bird's nest fern"
+      ],
+      "searchTerms": [
+        "관엽식물",
+        "고사리"
+      ],
+      "tags": [
+        "관엽",
+        "고습도",
+        "착생"
+      ],
+      "beginnerScore": 3,
+      "emoji": "🌿",
+      "light": "반양지",
+      "minLight": "반음지",
+      "waterIntervalDays": 7
     },
     {
       "key": "basil",
@@ -662,6 +736,43 @@
       "toxicToPets": true
     },
     {
+      "key": "fittonia",
+      "name": "피토니아",
+      "aliases": [
+        "휘토니아",
+        "피토니아 화이트스타",
+        "피토니아 핑크스타",
+        "피토니아 레드스타",
+        "화이트 피토니아",
+        "화이트피토니아",
+        "레드 피토니아",
+        "레드피토니아",
+        "핑크 피토니아",
+        "핑크피토니아",
+        "nerve plant",
+        "fittonia"
+      ],
+      "searchTerms": [
+        "관엽식물",
+        "공기정화식물"
+      ],
+      "tags": [
+        "관엽",
+        "소형",
+        "무늬잎",
+        "고습도",
+        "추위주의",
+        "공기정화",
+        "반려동물안전"
+      ],
+      "beginnerScore": 3,
+      "emoji": "🌿",
+      "light": "반양지",
+      "minLight": "반음지",
+      "waterIntervalDays": 7,
+      "toxicToPets": false
+    },
+    {
       "key": "haworthia",
       "name": "하월시아",
       "aliases": [
@@ -778,6 +889,45 @@
       "emoji": "🌸",
       "light": "반양지",
       "waterIntervalDays": 7,
+      "toxicToPets": false
+    },
+    {
+      "key": "hoya-kerrii",
+      "name": "하트호야",
+      "aliases": [
+        "하트 호야",
+        "호야 케리",
+        "호야케리",
+        "호야 캐리",
+        "호야캐리",
+        "케리호야",
+        "러브하트",
+        "러브하트호야",
+        "하트선인장",
+        "하트다육이",
+        "무늬하트호야",
+        "sweetheart hoya",
+        "valentine hoya",
+        "hoya kerrii"
+      ],
+      "searchTerms": [
+        "다육식물",
+        "다육이",
+        "관엽식물",
+        "넝쿨식물",
+        "덩굴식물"
+      ],
+      "tags": [
+        "다육",
+        "착생",
+        "덩굴",
+        "물적게",
+        "반려동물안전"
+      ],
+      "beginnerScore": 3,
+      "emoji": "💚",
+      "light": "반양지",
+      "waterIntervalDays": 14,
       "toxicToPets": false
     },
     {
@@ -898,6 +1048,33 @@
       "light": "반음지",
       "waterIntervalDays": 5,
       "toxicToPets": false
+    },
+    {
+      "key": "monstera-adansonii",
+      "name": "몬스테라 아단소니",
+      "aliases": [
+        "아단소니",
+        "아단소니 몬스테라",
+        "몬스테라아단소니",
+        "아단소니몬스테라"
+      ],
+      "searchTerms": [
+        "관엽식물",
+        "넝쿨식물",
+        "덩굴식물"
+      ],
+      "tags": [
+        "관엽",
+        "덩굴",
+        "행잉",
+        "고습도",
+        "반려동물주의"
+      ],
+      "beginnerScore": 3,
+      "emoji": "🌿",
+      "light": "반양지",
+      "waterIntervalDays": 7,
+      "toxicToPets": true
     },
     {
       "key": "monstera",
@@ -1042,6 +1219,33 @@
       "toxicToPets": false
     },
     {
+      "key": "opuntia-microdasys",
+      "name": "토끼귀선인장",
+      "aliases": [
+        "토끼귀 선인장",
+        "토끼선인장",
+        "백도선",
+        "백도선인장",
+        "금오모자",
+        "bunny ears cactus"
+      ],
+      "searchTerms": [
+        "선인장",
+        "다육식물",
+        "다육이"
+      ],
+      "tags": [
+        "다육",
+        "물적게",
+        "햇빛많이"
+      ],
+      "beginnerScore": 3,
+      "emoji": "🌵",
+      "light": "양지",
+      "waterIntervalDays": 14,
+      "toxicToPets": false
+    },
+    {
       "key": "pachira",
       "name": "파키라",
       "aliases": [
@@ -1101,12 +1305,38 @@
       "toxicToPets": true
     },
     {
+      "key": "peperomia-argyreia",
+      "name": "수박페페",
+      "aliases": [
+        "수박페페로미아",
+        "수박 페페",
+        "수박 페페로미아",
+        "페페로미아 아르기레이아",
+        "워터멜론 페페로미아",
+        "watermelon peperomia"
+      ],
+      "searchTerms": [
+        "관엽식물"
+      ],
+      "tags": [
+        "관엽",
+        "물적게",
+        "소형",
+        "무늬잎",
+        "반려동물안전"
+      ],
+      "beginnerScore": 3,
+      "emoji": "🪴",
+      "light": "반양지",
+      "minLight": "반음지",
+      "waterIntervalDays": 10,
+      "toxicToPets": false
+    },
+    {
       "key": "peperomia",
       "name": "페페로미아",
       "aliases": [
         "페페",
-        "수박페페",
-        "수박페페로미아",
         "청페페",
         "무늬페페",
         "산호페페",
@@ -1159,6 +1389,35 @@
       "light": "반양지",
       "waterIntervalDays": 12,
       "toxicToPets": false
+    },
+    {
+      "key": "philodendron-birkin",
+      "name": "필로덴드론 버킨",
+      "aliases": [
+        "버킨",
+        "필로덴드론버킨",
+        "필로 버킨",
+        "버킨 필로덴드론",
+        "버킨콩고",
+        "버킨 콩고",
+        "무늬콩고",
+        "필로덴드론 버킨콩고",
+        "philodendron birkin",
+        "birkin"
+      ],
+      "searchTerms": [
+        "관엽식물"
+      ],
+      "tags": [
+        "관엽",
+        "무늬잎",
+        "반려동물주의"
+      ],
+      "beginnerScore": 3,
+      "emoji": "🌿",
+      "light": "반양지",
+      "waterIntervalDays": 7,
+      "toxicToPets": true
     },
     {
       "key": "philodendron-florida-beauty",
@@ -1250,6 +1509,36 @@
       "emoji": "🪴",
       "light": "반양지",
       "waterIntervalDays": 8,
+      "toxicToPets": false
+    },
+    {
+      "key": "platycerium-bifurcatum",
+      "name": "박쥐란",
+      "aliases": [
+        "박쥐난",
+        "플라티케리움",
+        "플라티세리움",
+        "비푸카텀",
+        "박쥐란 비푸카텀",
+        "staghorn fern",
+        "elkhorn fern",
+        "platycerium bifurcatum"
+      ],
+      "searchTerms": [
+        "관엽식물",
+        "고사리",
+        "공중식물"
+      ],
+      "tags": [
+        "관엽",
+        "착생",
+        "행잉",
+        "반려동물안전"
+      ],
+      "beginnerScore": 2,
+      "emoji": "🌿",
+      "light": "반양지",
+      "waterIntervalDays": 10,
       "toxicToPets": false
     },
     {
