@@ -388,6 +388,106 @@
       "speciesKeys": [
         "rosemary"
       ]
+    },
+    {
+      "id": "2026-10-19-aspidistra-after-moving-in",
+      "title": "엽란을 안쪽으로 옮겼다면 앱의 자리도 바꿔요",
+      "body": "밤 기온이 10도 아래로 내려가기 시작하면 엽란 자리는 창가에서 한두 걸음 안쪽이에요. 옮겼다면 앱에 적힌 자리도 '한두 걸음'으로 바꿔 주세요. 창가 기준으로 오던 물 알림이 옮긴 자리에 맞게 늦춰져요.",
+      "postedOn": "2026-10-19",
+      "contentPath": "static/content/tips/2026-10-19-aspidistra-after-moving-in.html",
+      "speciesKeys": [
+        "aspidistra-elatior"
+      ]
+    },
+    {
+      "id": "2026-10-19-watermelon-peperomia-edge-water",
+      "title": "수박페페 물은 가장자리 흙에 부어요",
+      "body": "잎 달린 줄기가 흙 위 한 곳에 모여 올라와서, 위에서 부은 물이 그 밑동에 고이면 줄기가 물러요. 흙이 늦게 마르는 요즘엔 잎을 살짝 젖히고 화분 가장자리를 따라 천천히 부어 주세요.",
+      "postedOn": "2026-10-19",
+      "contentPath": "static/content/tips/2026-10-19-watermelon-peperomia-edge-water.html",
+      "speciesKeys": [
+        "peperomia-argyreia"
+      ]
+    },
+    {
+      "id": "2026-10-19-hoya-kerrii-single-leaf",
+      "title": "하트호야 잎 한 장이 몇 달째 그대로예요",
+      "body": "줄기 마디 없이 잎만 꽂은 화분은 새 잎이 나올 자리가 없어서, 모양이 그대로인 게 정상이에요. 밤에 15도 아래로 내려가는 창가라면 오늘 안쪽으로 들이고, 물은 화분을 들어 봐서 가벼울 때만 주세요.",
+      "postedOn": "2026-10-19",
+      "contentPath": "static/content/tips/2026-10-19-hoya-kerrii-single-leaf.html",
+      "speciesKeys": [
+        "hoya-kerrii"
+      ]
+    },
+    {
+      "id": "2026-10-26-fittonia-collapsed-check-soil",
+      "title": "피토니아가 갑자기 축 쓰러졌어요",
+      "body": "물을 붓기 전에 흙을 2~3cm 파서 만져 보세요. 말라 있으면 흠뻑 줄 때 대개 반나절 안에 다시 일어서고, 젖어 있으면 물은 쉬고 방 안쪽 따뜻한 자리로 옮겨 주세요.",
+      "postedOn": "2026-10-26",
+      "contentPath": "static/content/tips/2026-10-26-fittonia-collapsed-check-soil.html",
+      "speciesKeys": [
+        "fittonia"
+      ]
+    },
+    {
+      "id": "2026-10-26-asplenium-water-the-edge",
+      "title": "아비스는 가운데가 아니라 흙에 물을 줘요",
+      "body": "잎이 둥지처럼 모여 있어서 위에서 부으면 물이 새 잎 나오는 한가운데에 고여요. 물뿌리개 주둥이를 잎 아래로 넣어 화분 가장자리 흙을 따라 부어 주세요.",
+      "postedOn": "2026-10-26",
+      "contentPath": "static/content/tips/2026-10-26-asplenium-water-the-edge.html",
+      "speciesKeys": [
+        "asplenium-nidus"
+      ]
+    },
+    {
+      "id": "2026-10-26-staghorn-soak-when-droop",
+      "title": "박쥐란은 잎이 살짝 처질 때 담가요",
+      "body": "위로 뻗은 사슴뿔 모양 잎이 살짝 처지거나 들어 봐서 가벼우면 물 줄 때예요. 대야에 포기째 담가 충분히 적신 뒤 물이 뚝뚝 떨어지지 않을 만큼 빼고, 그날 밤은 찬 창가를 피해 두세요.",
+      "postedOn": "2026-10-26",
+      "contentPath": "static/content/tips/2026-10-26-staghorn-soak-when-droop.html",
+      "speciesKeys": [
+        "platycerium-bifurcatum"
+      ]
+    },
+    {
+      "id": "2026-11-02-aloe-winter-water-gap",
+      "title": "알로에는 11월부터 물 간격이 두 배로 벌어져요",
+      "body": "자라는 속도가 느려지는 11월부터 3월까지는 흙이 속까지 마른 날에만 흠뻑 주면 돼요. 알림이 와도 흙을 깊이 눌러 보고 축축하면 건너뛰세요.",
+      "postedOn": "2026-11-02",
+      "contentPath": "static/content/tips/2026-11-02-aloe-winter-water-gap.html",
+      "speciesKeys": [
+        "aloe-vera"
+      ]
+    },
+    {
+      "id": "2026-11-02-opuntia-warm-winter-stretch",
+      "title": "토끼귀선인장은 따뜻한 겨울에 마디가 가늘어져요",
+      "body": "난방기 곁에서 겨울을 나면 새 마디가 가늘게 늘어나고, 한번 늘어진 마디는 되돌아오지 않아요. 이번 주에 해 드는 창가 중 난방 바람이 안 닿는 쪽으로 옮기되, 신문지를 접어 감싸 들어 가시를 피하세요.",
+      "postedOn": "2026-11-02",
+      "contentPath": "static/content/tips/2026-11-02-opuntia-warm-winter-stretch.html",
+      "speciesKeys": [
+        "opuntia-microdasys"
+      ]
+    },
+    {
+      "id": "2026-11-02-adansonii-hanging-stem-glass",
+      "title": "아단소니 걸이 화분은 늘어진 줄기 끝을 유리에서 떼요",
+      "body": "화분은 창에서 떨어져 있어도 늘어진 줄기 끝은 찬 유리에 닿아 있을 수 있어요. 오늘 밤 긴 줄기를 끝까지 따라가 보고, 닿은 잎이 있으면 화분을 돌리거나 줄기 끝이 유리에 닿지 않을 만큼 고리를 안쪽으로 옮겨 걸어요.",
+      "postedOn": "2026-11-02",
+      "contentPath": "static/content/tips/2026-11-02-adansonii-hanging-stem-glass.html",
+      "speciesKeys": [
+        "monstera-adansonii"
+      ]
+    },
+    {
+      "id": "2026-11-09-birkin-winter-spot",
+      "title": "버킨은 창에서 한두 걸음 안쪽이 겨울 자리예요",
+      "body": "밤에 13도 아래로 내려가는 창가라면 오늘 안으로 들이되, 방 깊숙이 넣지는 마세요. 하얀 줄무늬는 빛이 지켜 주니 창에서 한두 걸음 안쪽, 유리에 잎이 닿지 않는 밝은 자리에서 멈춰요.",
+      "postedOn": "2026-11-09",
+      "contentPath": "static/content/tips/2026-11-09-birkin-winter-spot.html",
+      "speciesKeys": [
+        "philodendron-birkin"
+      ]
     }
   ]
 }
